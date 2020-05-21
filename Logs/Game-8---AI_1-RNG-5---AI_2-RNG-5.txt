@@ -1,0 +1,2105 @@
+SENTE turn n° 1 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 286
+Temps écoulé : 20ms|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |   |   |SR |   |
+|SP |SP |SP |   |SP |SP |SP |SP |SP |
+|   |   |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 2 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 286
+Temps écoulé : 12ms|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |   |   |SR |   |
+|SP |SP |SP |   |SP |SP |SP |SP |SP |
+|   |   |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |GG |   |   |   |   |GB |   |
+|GL |GN |GS |   |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 3 NB ACTIONS UNIQUES = 287 NB ACTIONS TOTAL = 298
+Temps écoulé : 14ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |   |   |SR |   |
+|SP |SP |SP |   |SP |SP |SP |SP |SP |
+|   |   |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |GG |   |   |   |   |GB |   |
+|GL |GN |GS |   |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 4 NB ACTIONS UNIQUES = 288 NB ACTIONS TOTAL = 298
+Temps écoulé : 8ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |   |   |SR |   |
+|SP |SP |SP |   |SP |SP |SP |SP |SP |
+|   |   |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |GG |   |GG |   |   |GB |   |
+|GL |GN |GS |   |GK |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 5 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 310
+Temps écoulé : 9ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |   |   |SR |   |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |GG |   |GG |   |   |GB |   |
+|GL |GN |GS |   |GK |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 6 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 310
+Temps écoulé : 14ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |   |   |SR |   |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |GG |   |GG |   |   |GB |   |
+|GL |GN |GS |GK |   |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 7 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 321
+Temps écoulé : 10ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |SR |   |   |   |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |GG |   |GG |   |   |GB |   |
+|GL |GN |GS |GK |   |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 8 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 335
+Temps écoulé : 12ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |SR |   |   |   |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|GL |GR |GG |   |GG |   |   |GB |   |
+|   |GN |GS |GK |   |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 9 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 351
+Temps écoulé : 6ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |   |SR |   |   |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|GL |GR |GG |   |GG |   |   |GB |   |
+|   |GN |GS |GK |   |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 10 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 365
+Temps écoulé : 8ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |   |SR |   |   |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |GG |   |   |GB |   |
+|   |GN |GS |GK |   |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 11 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 377
+Temps écoulé : 11ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |   |   |   |SR |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |GG |   |   |GB |   |
+|   |GN |GS |GK |   |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 12 NB ACTIONS UNIQUES = 287 NB ACTIONS TOTAL = 389
+Temps écoulé : 9ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |SG |   |   |   |SR |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |   |   |   |GB |   |
+|   |GN |GS |GK |GG |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 13 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 400
+Temps écoulé : 13ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SG |   |   |SR |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |   |   |   |GB |   |
+|   |GN |GS |GK |GG |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 14 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 400
+Temps écoulé : 13ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SG |   |   |SR |
+|SP |   |SP |   |SP |SP |SP |SP |SP |
+|   |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |   |   |   |GB |   |
+|   |GN |GS |GK |   |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 15 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 406
+Temps écoulé : 14ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SP |SP |SP |SP |
+|SP |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |   |   |   |GB |   |
+|   |GN |GS |GK |   |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 16 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 404
+Temps écoulé : 12ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SP |SP |SP |SP |
+|SP |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |   |GG |   |GB |   |
+|   |GN |GS |GK |   |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 17 NB ACTIONS UNIQUES = 287 NB ACTIONS TOTAL = 416
+Temps écoulé : 10ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SG |   |SR |   |
+|   |   |SP |   |SP |SP |SP |SP |SP |
+|SP |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |   |GG |   |GB |   |
+|   |GN |GS |GK |   |   |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 18 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 410
+Temps écoulé : 16ms|
+|SL |SN |SS |   |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SG |   |SR |   |
+|   |   |SP |   |SP |SP |SP |SP |SP |
+|SP |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |   |GG |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 19 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 426
+Temps écoulé : 22ms|
+|SL |SN |SS |   |SK |SG |   |SN |SL |
+|   |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SP |SP |SP |SP |
+|SP |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|GL |GR |GG |   |   |GG |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 20 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 428
+Temps écoulé : 7ms|
+|SL |SN |SS |   |SK |SG |   |SN |SL |
+|   |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SP |SP |SP |SP |
+|SP |SP |   |SP |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |GP |   |
+|GP |GP |GP |GP |GP |   |GP |   |GP |
+|GL |GR |GG |   |   |GG |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 21 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 440
+Temps écoulé : 8ms|
+|SL |SN |SS |   |SK |SG |   |SN |SL |
+|   |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |SP |SP |
+|SP |SP |   |SP |   |SP |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |GP |   |
+|GP |GP |GP |GP |GP |   |GP |   |GP |
+|GL |GR |GG |   |   |GG |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 22 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 440
+Temps écoulé : 15ms|
+|SL |SN |SS |   |SK |SG |   |SN |SL |
+|   |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |SP |SP |
+|SP |SP |   |SP |   |SP |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |GP |   |
+|GP |GP |GP |GP |GP |   |GP |   |GP |
+|GL |GR |GG |   |GG |   |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 23 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 446
+Temps écoulé : 16ms|
+|SL |SN |SS |   |SK |   |   |SN |SL |
+|   |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |SP |SP |
+|SP |SP |   |SP |   |SP |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |GP |   |
+|GP |GP |GP |GP |GP |   |GP |   |GP |
+|GL |GR |GG |   |GG |   |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 24 NB ACTIONS UNIQUES = 293 NB ACTIONS TOTAL = 446
+Temps écoulé : 14ms|
+|SL |SN |SS |   |SK |   |   |SN |SL |
+|   |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |SP |SP |
+|SP |SP |   |SP |   |SP |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |GP |   |   |   |GP |   |GP |   |
+|GP |   |GP |GP |GP |   |GP |   |GP |
+|GL |GR |GG |   |GG |   |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 25 NB ACTIONS UNIQUES = 293 NB ACTIONS TOTAL = 458
+Temps écoulé : 10ms|
+|SL |SN |SS |   |   |SK |   |SN |SL |
+|   |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |SP |SP |
+|SP |SP |   |SP |   |SP |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |GP |   |   |   |GP |   |GP |   |
+|GP |   |GP |GP |GP |   |GP |   |GP |
+|GL |GR |GG |   |GG |   |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 26 NB ACTIONS UNIQUES = 293 NB ACTIONS TOTAL = 457
+Temps écoulé : 14ms|
+|SL |SN |SS |   |   |SK |   |SN |SL |
+|   |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |SP |SP |
+|SP |SP |   |SP |   |SP |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |GP |   |   |   |GP |   |GP |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |GG |   |GG |   |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 27 NB ACTIONS UNIQUES = 293 NB ACTIONS TOTAL = 483
+Temps écoulé : 20ms|
+|SL |SN |SS |   |   |SK |   |SN |SL |
+|   |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SP |
+|SP |SP |   |SP |   |SP |   |SP |   |
+|   |   |   |   |   |   |   |   |   |
+|   |GP |   |   |   |GP |   |GP |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |GG |   |GG |   |   |GB |GL |
+|   |GN |GS |GK |   |   |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 28 NB ACTIONS UNIQUES = 293 NB ACTIONS TOTAL = 483
+Temps écoulé : 20ms|
+|SL |SN |SS |   |   |SK |   |SN |SL |
+|   |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SP |
+|SP |SP |   |SP |   |SP |   |SP |   |
+|   |   |   |   |   |   |   |   |   |
+|   |GP |   |   |   |GP |   |GP |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |GG |   |GG |   |GS |GB |GL |
+|   |GN |GS |GK |   |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 29 NB ACTIONS UNIQUES = 296 NB ACTIONS TOTAL = 497
+Temps écoulé : 9ms|
+|SL |SN |SS |   |   |SK |   |SN |SL |
+|   |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |   |
+|SP |SP |   |SP |   |SP |   |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |GP |   |   |   |GP |   |GP |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |GG |   |GG |   |GS |GB |GL |
+|   |GN |GS |GK |   |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 30 NB ACTIONS UNIQUES = 296 NB ACTIONS TOTAL = 495
+Temps écoulé : 14ms|
+|SL |SN |SS |   |   |SK |   |SN |SL |
+|   |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |   |
+|SP |SP |   |SP |   |SP |   |SP |SP |
+|   |   |   |   |   |   |   |GP |   |
+|   |GP |   |   |   |GP |   |   |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |GG |   |GG |   |GS |GB |GL |
+|   |GN |GS |GK |   |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 31 NB ACTIONS UNIQUES = 296 NB ACTIONS TOTAL = 507
+Temps écoulé : 7ms|
+|   |SN |SS |   |   |SK |   |SN |SL |
+|SL |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |   |
+|SP |SP |   |SP |   |SP |   |SP |SP |
+|   |   |   |   |   |   |   |GP |   |
+|   |GP |   |   |   |GP |   |   |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |GG |   |GG |   |GS |GB |GL |
+|   |GN |GS |GK |   |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 32 NB ACTIONS UNIQUES = 296 NB ACTIONS TOTAL = 511
+Temps écoulé : 15ms|
+|   |SN |SS |   |   |SK |   |SN |SL |
+|SL |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |   |
+|SP |SP |   |SP |   |SP |   |SP |SP |
+|   |   |   |   |   |   |   |GP |   |
+|   |GP |   |   |   |GP |   |   |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |   |GG |GG |   |GS |GB |GL |
+|   |GN |GS |GK |   |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 33 NB ACTIONS UNIQUES = 296 NB ACTIONS TOTAL = 523
+Temps écoulé : 15ms|
+|   |SN |SS |   |   |SK |   |SN |SL |
+|SL |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |   |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|   |GP |   |   |   |GP |   |   |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |   |GG |GG |   |GS |GB |GL |
+|   |GN |GS |GK |   |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 34 NB ACTIONS UNIQUES = 296 NB ACTIONS TOTAL = 523
+Temps écoulé : 11ms|
+|   |SN |SS |   |   |SK |   |SN |SL |
+|SL |SB |   |   |SG |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |   |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|   |GP |   |   |   |GP |   |   |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |   |GG |   |   |GS |GB |GL |
+|   |GN |GS |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 35 NB ACTIONS UNIQUES = 295 NB ACTIONS TOTAL = 529
+Temps écoulé : 13ms|
+|   |SN |SS |   |   |SK |   |SN |SL |
+|SL |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SG |SP |   |   |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|   |GP |   |   |   |GP |   |   |   |
+|GP |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |   |GG |   |   |GS |GB |GL |
+|   |GN |GS |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 36 NB ACTIONS UNIQUES = 295 NB ACTIONS TOTAL = 529
+Temps écoulé : 15ms|
+|   |SN |SS |   |   |SK |   |SN |SL |
+|SL |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SG |SP |   |   |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |   |   |   |
+|   |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |   |GG |   |   |GS |GB |GL |
+|   |GN |GS |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 37 NB ACTIONS UNIQUES = 295 NB ACTIONS TOTAL = 539
+Temps écoulé : 14ms|
+|   |SN |SS |   |   |SK |   |SN |   |
+|SL |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SG |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |   |   |   |
+|   |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |   |GG |   |   |GS |GB |GL |
+|   |GN |GS |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 38 NB ACTIONS UNIQUES = 294 NB ACTIONS TOTAL = 542
+Temps écoulé : 14ms|
+|   |SN |SS |   |   |SK |   |SN |   |
+|SL |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SG |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |   |   |   |
+|GN |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |   |GG |   |   |GS |GB |GL |
+|   |   |GS |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 39 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 553
+Temps écoulé : 7ms|
+|   |SN |SS |   |   |SK |   |SN |   |
+|SL |SB |   |   |   |SG |SS |   |   |
+|   |   |SP |   |SP |SG |SP |SR |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |   |   |   |
+|GN |GR |GP |GP |GP |   |GP |   |GP |
+|GL |   |   |GG |   |   |GS |GB |GL |
+|   |   |GS |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 40 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 567
+Temps écoulé : 8ms|
+|   |SN |SS |   |   |SK |   |SN |   |
+|SL |SB |   |   |   |SG |SS |   |   |
+|   |   |SP |   |SP |SG |SP |SR |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |   |   |   |
+|GN |GR |GP |GP |GP |   |GP |   |GP |
+|GL |GS |   |GG |   |   |GS |GB |GL |
+|   |   |   |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 41 NB ACTIONS UNIQUES = 295 NB ACTIONS TOTAL = 581
+Temps écoulé : 7ms|
+|   |SN |SS |   |   |SK |   |SN |   |
+|SL |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SG |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |   |   |   |
+|GN |GR |GP |GP |GP |   |GP |   |GP |
+|GL |GS |   |GG |   |   |GS |GB |GL |
+|   |   |   |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 42 NB ACTIONS UNIQUES = 295 NB ACTIONS TOTAL = 575
+Temps écoulé : 14ms|
+|   |SN |SS |   |   |SK |   |SN |   |
+|SL |SB |   |   |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SG |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |GP |   |   |
+|GN |GR |GP |GP |GP |   |   |   |GP |
+|GL |GS |   |GG |   |   |GS |GB |GL |
+|   |   |   |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 43 NB ACTIONS UNIQUES = 295 NB ACTIONS TOTAL = 587
+Temps écoulé : 10ms|
+|   |SN |   |   |   |SK |   |SN |   |
+|SL |SB |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SG |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |GP |   |   |
+|GN |GR |GP |GP |GP |   |   |   |GP |
+|GL |GS |   |GG |   |   |GS |GB |GL |
+|   |   |   |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 44 NB ACTIONS UNIQUES = 298 NB ACTIONS TOTAL = 589
+Temps écoulé : 13ms|
+|   |SN |   |   |   |SK |   |SN |   |
+|SL |SB |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |SG |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |GP |   |   |
+|GN |GR |GP |GP |GP |   |   |   |GP |
+|GL |GS |GG |   |   |   |GS |GB |GL |
+|   |   |   |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 45 NB ACTIONS UNIQUES = 298 NB ACTIONS TOTAL = 595
+Temps écoulé : 10ms|
+|   |SN |   |   |   |SK |   |SN |   |
+|SL |SB |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SL |
+|SP |SP |   |SP |   |   |SG |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |   |   |GP |GP |   |   |
+|GN |GR |GP |GP |GP |   |   |   |GP |
+|GL |GS |GG |   |   |   |GS |GB |GL |
+|   |   |   |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 46 NB ACTIONS UNIQUES = 298 NB ACTIONS TOTAL = 595
+Temps écoulé : 15ms|
+|   |SN |   |   |   |SK |   |SN |   |
+|SL |SB |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SL |
+|SP |SP |   |SP |   |   |SG |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|GP |GP |   |GP |   |GP |GP |   |   |
+|GN |GR |GP |   |GP |   |   |   |GP |
+|GL |GS |GG |   |   |   |GS |GB |GL |
+|   |   |   |GK |GG |   |   |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 47 NB ACTIONS UNIQUES = 298 NB ACTIONS TOTAL = 607
+Temps écoulé : 13ms|
+|   |SN |   |   |   |SK |   |SN |   |
+|SL |SB |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |SG |   |
+|GP |GP |   |GP |   |GP |GP |   |   |
+|GN |GR |GP |   |GP |   |   |   |GP |
+|GL |GS |GG |   |   |   |GS |GB |GL |
+|   |   |   |GK |GG |   |   |GN |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 48 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 607
+Temps écoulé : 15ms|
+|   |SN |   |   |   |SK |   |SN |   |
+|SL |SB |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |SG |   |
+|GP |GP |   |GP |   |GP |GP |   |   |
+|GN |GR |GP |   |GP |   |   |   |GP |
+|GL |GS |GG |   |   |GG |GS |GB |GL |
+|   |   |   |GK |   |   |   |GN |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 49 NB ACTIONS UNIQUES = 293 NB ACTIONS TOTAL = 613
+Temps écoulé : 14ms|
+|   |SN |   |   |SK |   |   |SN |   |
+|SL |SB |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |SG |   |
+|GP |GP |   |GP |   |GP |GP |   |   |
+|GN |GR |GP |   |GP |   |   |   |GP |
+|GL |GS |GG |   |   |GG |GS |GB |GL |
+|   |   |   |GK |   |   |   |GN |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 50 NB ACTIONS UNIQUES = 293 NB ACTIONS TOTAL = 607
+Temps écoulé : 12ms|
+|   |SN |   |   |SK |   |   |SN |   |
+|SL |SB |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |SG |   |
+|GP |GP |   |GP |   |GP |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |   |GP |
+|GL |GS |GG |   |   |GG |GS |GB |GL |
+|   |   |   |GK |   |   |   |   |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 51 NB ACTIONS UNIQUES = 294 NB ACTIONS TOTAL = 621
+Temps écoulé : 13ms|
+|SB |SN |   |   |SK |   |   |SN |   |
+|SL |   |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |SP |   |SG |   |
+|GP |GP |   |GP |   |GP |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |   |GP |
+|GL |GS |GG |   |   |GG |GS |GB |GL |
+|   |   |   |GK |   |   |   |   |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 52 NB ACTIONS UNIQUES = 290 NB ACTIONS TOTAL = 625
+Temps écoulé : 16ms|
+|SB |SN |   |   |SK |   |   |SN |   |
+|SL |   |   |SS |   |SG |SS |SR |   |
+|   |   |SP |   |SP |   |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |   |GP |
+|GL |GS |GG |   |   |GG |GS |GB |GL |
+|   |   |   |GK |   |   |   |   |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 53 NB ACTIONS UNIQUES = 284 NB ACTIONS TOTAL = 637
+Temps écoulé : 7ms|
+|SB |SN |   |   |SK |   |   |SN |   |
+|SL |   |   |SS |   |SG |   |SR |   |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |   |GP |
+|GL |GS |GG |   |   |GG |GS |GB |GL |
+|   |   |   |GK |   |   |   |   |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 54 NB ACTIONS UNIQUES = 284 NB ACTIONS TOTAL = 639
+Temps écoulé : 16ms|
+|SB |SN |   |   |SK |   |   |SN |   |
+|SL |   |   |SS |   |SG |   |SR |   |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |GS |GP |
+|GL |GS |GG |   |   |GG |   |GB |GL |
+|   |   |   |GK |   |   |   |   |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 55 NB ACTIONS UNIQUES = 284 NB ACTIONS TOTAL = 653
+Temps écoulé : 11ms|
+|SB |SN |SS |   |SK |   |   |SN |   |
+|SL |   |   |   |   |SG |   |SR |   |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |GS |GP |
+|GL |GS |GG |   |   |GG |   |GB |GL |
+|   |   |   |GK |   |   |   |   |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 56 NB ACTIONS UNIQUES = 281 NB ACTIONS TOTAL = 647
+Temps écoulé : 8ms|
+|SB |SN |SS |   |SK |   |   |SN |   |
+|SL |   |   |   |   |SG |   |SR |   |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |GS |GP |
+|GL |GS |GG |   |   |GG |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 57 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 658
+Temps écoulé : 15ms|
+|SB |SN |SS |   |SK |SP |   |SN |   |
+|SL |   |   |   |   |SG |   |SR |   |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |GS |GP |
+|GL |GS |GG |   |   |GG |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 58 NB ACTIONS UNIQUES = 291 NB ACTIONS TOTAL = 657
+Temps écoulé : 12ms|
+|SB |SN |SS |   |SK |SP |   |SN |   |
+|SL |   |   |   |   |SG |   |SR |   |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |GS |GP |
+|GL |GS |GG |   |GG |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 59 NB ACTIONS UNIQUES = 291 NB ACTIONS TOTAL = 663
+Temps écoulé : 13ms|
+|SB |SN |SS |SK |   |SP |   |SN |   |
+|SL |   |   |   |   |SG |   |SR |   |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |GS |GP |
+|GL |GS |GG |   |GG |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 60 NB ACTIONS UNIQUES = 291 NB ACTIONS TOTAL = 662
+Temps écoulé : 6ms|
+|SB |SN |SS |SK |   |SP |   |SN |   |
+|SL |   |   |   |   |SG |   |SR |   |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |GS |GP |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 61 NB ACTIONS UNIQUES = 291 NB ACTIONS TOTAL = 674
+Temps écoulé : 15ms|
+|SB |SN |SS |SK |   |SP |   |SN |   |
+|SL |   |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |   |
+|GN |GR |GP |   |GP |   |GN |GS |GP |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 62 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 668
+Temps écoulé : 14ms|
+|SB |SN |SS |SK |   |SP |   |SN |   |
+|SL |   |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |GP |
+|GN |GR |GP |   |GP |   |GN |GS |   |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 63 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 678
+Temps écoulé : 14ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |   |GP |
+|GN |GR |GP |   |GP |   |GN |GS |   |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 64 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 680
+Temps écoulé : 14ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |SP |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |GS |GP |
+|GN |GR |GP |   |GP |   |GN |   |   |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 65 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 694
+Temps écoulé : 8ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |   |   |SL |
+|SP |SP |   |SP |   |   |SP |SP |SP |
+|   |   |   |   |   |GP |   |SG |   |
+|GP |GP |   |GP |   |   |GP |GS |GP |
+|GN |GR |GP |   |GP |   |GN |   |   |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 66 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 694
+Temps écoulé : 10ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |   |   |SL |
+|SP |SP |   |SP |   |   |SP |SP |SP |
+|   |   |   |   |   |GP |   |SG |GS |
+|GP |GP |   |GP |   |   |GP |   |GP |
+|GN |GR |GP |   |GP |   |GN |   |   |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 67 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 705
+Temps écoulé : 9ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |   |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |SG |GS |
+|GP |GP |   |GP |   |   |GP |   |GP |
+|GN |GR |GP |   |GP |   |GN |   |   |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 68 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 705
+Temps écoulé : 13ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |   |   |SL |
+|SP |SP |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |SG |GS |
+|GP |GP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |   |   |   |GN |   |   |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 69 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 717
+Temps écoulé : 7ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |   |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |SP |   |   |   |GP |SP |SG |GS |
+|GP |GP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |   |   |   |GN |   |   |
+|GL |GS |GG |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 70 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 717
+Temps écoulé : 11ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |   |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |SP |   |   |   |GP |SP |SG |GS |
+|GP |GP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |GN |   |   |
+|GL |GS |   |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 71 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 729
+Temps écoulé : 9ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |   |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |SG |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |GN |   |   |
+|GL |GS |   |GG |   |   |   |GB |GL |
+|   |   |   |GK |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 72 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 729
+Temps écoulé : 14ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |SG |   |   |SR |
+|   |   |SP |   |SP |SS |   |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |SG |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |GN |   |   |
+|GL |GS |   |GG |   |   |   |GB |GL |
+|   |   |   |   |GK |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 73 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 735
+Temps écoulé : 15ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |   |   |   |SR |
+|   |   |SP |   |SP |SS |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |SG |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |GN |   |   |
+|GL |GS |   |GG |   |   |   |GB |GL |
+|   |   |   |   |GK |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 74 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 735
+Temps écoulé : 12ms|
+|SB |SN |   |SK |   |SP |   |SN |   |
+|SL |SS |   |   |   |   |   |   |SR |
+|   |   |SP |   |SP |SS |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |SG |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |GN |   |   |
+|GL |GS |   |GG |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 75 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 746
+Temps écoulé : 9ms|
+|SB |SN |SK |   |   |SP |   |SN |   |
+|SL |SS |   |   |   |   |   |   |SR |
+|   |   |SP |   |SP |SS |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |SG |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |GN |   |   |
+|GL |GS |   |GG |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 76 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 745
+Temps écoulé : 17ms|
+|SB |SN |SK |   |   |SP |   |SN |   |
+|SL |SS |   |   |   |   |   |   |SR |
+|   |   |SP |   |SP |SS |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |   |GG |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : G
+
+
+SENTE turn n° 77 NB ACTIONS UNIQUES = 277 NB ACTIONS TOTAL = 759
+Temps écoulé : 17ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |SS |   |   |   |   |   |   |   |
+|   |   |SP |   |SP |SS |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |   |GG |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : G
+
+
+GOTE turn n° 78 NB ACTIONS UNIQUES = 276 NB ACTIONS TOTAL = 770
+Temps écoulé : 16ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |SS |   |   |   |   |   |   |   |
+|   |   |SP |   |SP |SS |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : G
+
+
+SENTE turn n° 79 NB ACTIONS UNIQUES = 276 NB ACTIONS TOTAL = 782
+Temps écoulé : 16ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |SS |   |   |   |   |SS |   |   |
+|   |   |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : G
+
+
+GOTE turn n° 80 NB ACTIONS UNIQUES = 276 NB ACTIONS TOTAL = 776
+Temps écoulé : 11ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |SS |   |   |   |   |SS |   |   |
+|GG |   |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 81 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 786
+Temps écoulé : 9ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |GS |
+|GP |SP |   |GP |GP |   |GP |   |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 82 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 788
+Temps écoulé : 9ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |   |
+|GP |SP |   |GP |GP |   |GP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 83 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 794
+Temps écoulé : 11ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |   |   |SG |SP |SP |
+|   |   |   |   |   |GP |SP |GN |   |
+|GP |SP |   |GP |GP |   |GP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |   |   |GB |GL |
+|   |   |   |   |   |GK |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 84 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 794
+Temps écoulé : 9ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |   |   |SG |SP |SP |
+|   |   |   |   |   |GP |SP |GN |   |
+|GP |SP |   |GP |GP |   |GP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |   |GK |GB |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 85 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 808
+Temps écoulé : 6ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |   |
+|GP |SP |   |GP |GP |   |GP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |   |GK |GB |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 86 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 802
+Temps écoulé : 13ms|
+|SB |SN |SK |   |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |   |
+|GP |SP |   |GP |GP |   |GP |GS |GP |
+|GN |GR |GP |GG |   |   |GB |   |   |
+|GL |GS |GG |   |   |   |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 87 NB ACTIONS UNIQUES = 288 NB ACTIONS TOTAL = 824
+Temps écoulé : 7ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |   |
+|GP |SP |   |GP |GP |   |GP |GS |GP |
+|GN |GR |GP |GG |   |   |GB |   |   |
+|GL |GS |GG |   |   |   |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 88 NB ACTIONS UNIQUES = 288 NB ACTIONS TOTAL = 818
+Temps écoulé : 13ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |SP |GN |   |
+|GP |SP |   |GP |GP |   |GP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 89 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 838
+Temps écoulé : 15ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |GP |   |SP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 90 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 838
+Temps écoulé : 21ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |SS |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |GP |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 91 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 850
+Temps écoulé : 11ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |   |   |   |
+|GG |SS |SP |   |SP |SS |SG |   |SL |
+|SP |   |   |SP |   |   |   |SP |SP |
+|   |   |   |   |GP |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 92 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 844
+Temps écoulé : 10ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |   |   |   |
+|GG |SS |SP |   |SP |SS |SG |   |SL |
+|SP |   |   |SP |GP |   |   |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 93 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 856
+Temps écoulé : 7ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |   |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |GP |   |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |GG |   |   |   |   |   |
+|GL |GS |GG |   |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 94 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 858
+Temps écoulé : 14ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |   |   |   |
+|GG |SS |SP |   |SP |   |SG |   |SL |
+|SP |   |   |SP |GP |   |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 95 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 864
+Temps écoulé : 17ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |   |   |   |   |   |   |   |   |
+|GG |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 96 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 864
+Temps écoulé : 6ms|
+|SB |SN |   |SK |   |SP |   |SN |SR |
+|SL |GG |   |   |   |   |   |   |   |
+|   |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 97 NB ACTIONS UNIQUES = 282 NB ACTIONS TOTAL = 876
+Temps écoulé : 9ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |GG |   |   |SK |   |   |   |   |
+|   |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |GB |GK |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 98 NB ACTIONS UNIQUES = 285 NB ACTIONS TOTAL = 878
+Temps écoulé : 9ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |GG |   |   |SK |   |   |   |   |
+|   |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 99 NB ACTIONS UNIQUES = 282 NB ACTIONS TOTAL = 895
+Temps écoulé : 22ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |   |   |SK |   |   |   |   |
+|   |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GN |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : PPG
+Gote captured tokens : 
+
+
+GOTE turn n° 100 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 889
+Temps écoulé : 16ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |   |   |SK |   |   |   |   |
+|   |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |GN |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : PPG
+Gote captured tokens : 
+
+
+SENTE turn n° 101 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 903
+Temps écoulé : 17ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |   |SG |SK |   |   |   |   |
+|   |SS |SP |   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |GN |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 102 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 903
+Temps écoulé : 7ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |   |SG |SK |   |   |   |   |
+|   |SS |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 103 NB ACTIONS UNIQUES = 283 NB ACTIONS TOTAL = 917
+Temps écoulé : 11ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|   |SS |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 104 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 917
+Temps écoulé : 16ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|   |SS |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |SP |
+|   |   |   |   |   |GP |   |GN |   |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GS |GR |GP |   |   |   |   |   |   |
+|GL |   |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 105 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 928
+Temps écoulé : 21ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|   |SS |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |   |   |   |   |GP |   |GN |SP |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|GS |GR |GP |   |   |   |   |   |   |
+|GL |   |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 106 NB ACTIONS UNIQUES = 286 NB ACTIONS TOTAL = 926
+Temps écoulé : 14ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|   |SS |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |   |   |   |   |GP |   |GN |SP |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 107 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 932
+Temps écoulé : 16ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|   |   |GN+|   |SP |   |   |   |SL |
+|SP |SS |   |SP |GP |SG |SS |SP |   |
+|   |   |   |   |   |GP |   |GN |SP |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 108 NB ACTIONS UNIQUES = 289 NB ACTIONS TOTAL = 934
+Temps écoulé : 13ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|   |   |GN+|   |SP |   |   |   |SL |
+|SP |SS |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |   |GN |SP |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 109 NB ACTIONS UNIQUES = 295 NB ACTIONS TOTAL = 946
+Temps écoulé : 11ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|SS |   |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |   |GN |SP |
+|GP |SP |   |GP |   |   |SP |GS |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 110 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 945
+Temps écoulé : 12ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|SS |   |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |GS |GN |SP |
+|GP |SP |   |GP |   |   |SP |   |GP |
+|   |GR |GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 111 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 959
+Temps écoulé : 8ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|SS |   |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |GS |GN |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |   |GK |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : RP
+Gote captured tokens : 
+
+
+GOTE turn n° 112 NB ACTIONS UNIQUES = 272 NB ACTIONS TOTAL = 959
+Temps écoulé : 6ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |SK |   |   |   |   |
+|SS |   |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |GS |GN |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |GK |   |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : RP
+Gote captured tokens : 
+
+
+SENTE turn n° 113 NB ACTIONS UNIQUES = 272 NB ACTIONS TOTAL = 973
+Temps écoulé : 10ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |   |   |   |   |   |
+|SS |   |GN+|   |SP |SK |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |GS |GN |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |   |   |   |   |
+|GL |GS |GG |GG |   |GK |   |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : RP
+Gote captured tokens : 
+
+
+GOTE turn n° 114 NB ACTIONS UNIQUES = 272 NB ACTIONS TOTAL = 975
+Temps écoulé : 6ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |   |   |   |   |   |
+|SS |   |GN+|   |SP |SK |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |GS |GN |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |   |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : RP
+Gote captured tokens : 
+
+
+SENTE turn n° 115 NB ACTIONS UNIQUES = 272 NB ACTIONS TOTAL = 989
+Temps écoulé : 7ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |   |   |   |   |   |
+|SS |   |GN+|   |SP |SK |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |GS |GN |SP |
+|GP |   |SR |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |   |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |GB |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 116 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 1003
+Temps écoulé : 6ms|
+|   |SN |   |   |   |SP |   |SN |SR |
+|SL |SB |SP |SG |   |   |   |   |   |
+|SS |   |GN+|   |SP |SK |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |GS |GN |SP |
+|GP |   |SR |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 117 NB ACTIONS UNIQUES = 292 NB ACTIONS TOTAL = 1020
+Temps écoulé : 7ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |   |
+|SS |   |GN+|   |SP |SK |   |   |SL |
+|SP |   |   |SP |GP |SG |SS |SP |   |
+|   |GP |   |   |   |GP |GS |GN |SP |
+|GP |   |SR |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 118 NB ACTIONS UNIQUES = 288 NB ACTIONS TOTAL = 1014
+Temps écoulé : 15ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |   |
+|SS |   |GN+|   |SP |SK |   |   |SL |
+|SP |   |   |SP |GP |GP |SS |SP |   |
+|   |GP |   |   |   |   |GS |GN |SP |
+|GP |   |SR |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : P
+Gote captured tokens : G
+
+
+SENTE turn n° 119 NB ACTIONS UNIQUES = 282 NB ACTIONS TOTAL = 1026
+Temps écoulé : 16ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |   |
+|SS |   |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SK |SS |SP |   |
+|   |GP |   |   |   |   |GS |GN |SP |
+|GP |   |SR |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : G
+
+
+GOTE turn n° 120 NB ACTIONS UNIQUES = 276 NB ACTIONS TOTAL = 1022
+Temps écoulé : 17ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |   |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |SK |SS |SP |   |
+|   |GP |   |   |   |   |GS |GN |SP |
+|GP |   |SR |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 121 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 1038
+Temps écoulé : 17ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |   |GN+|   |SP |   |   |   |SL |
+|SP |   |   |SP |GP |   |SS |SP |   |
+|   |GP |   |   |SK |   |GS |GN |SP |
+|GP |   |SR |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 122 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 1034
+Temps écoulé : 6ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |   |GN+|   |SP |   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |SP |   |
+|   |GP |   |   |SK |   |GS |   |SP |
+|GP |   |SR |GP |   |   |SP |   |GP |
+|   |SP+|GP |   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 123 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 1054
+Temps écoulé : 13ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |   |GN+|   |SP |   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |SP |   |
+|   |GP |   |   |SK |   |GS |   |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|   |SP+|SR+|   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+GOTE turn n° 124 NB ACTIONS UNIQUES = 274 NB ACTIONS TOTAL = 1062
+Temps écoulé : 15ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |   |GN+|   |SP |   |GN+|   |SL |
+|SP |GP |   |SP |GP |   |SS |SP |   |
+|   |   |   |   |SK |   |GS |   |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|   |SP+|SR+|   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+SENTE turn n° 125 NB ACTIONS UNIQUES = 274 NB ACTIONS TOTAL = 1080
+Temps écoulé : 6ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |   |GN+|   |SP |   |GN+|   |SL |
+|SP |GP |   |SP |GP |   |SS |SP |   |
+|   |   |   |   |   |   |GS |   |SP |
+|GP |   |   |GP |SK |   |SP |   |GP |
+|   |SP+|SR+|   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+GOTE turn n° 126 NB ACTIONS UNIQUES = 274 NB ACTIONS TOTAL = 1076
+Temps écoulé : 11ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |GP+|GN+|   |SP |   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |SP |   |
+|   |   |   |   |   |   |GS |   |SP |
+|GP |   |   |GP |SK |   |SP |   |GP |
+|   |SP+|SR+|   |   |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+SENTE turn n° 127 NB ACTIONS UNIQUES = 274 NB ACTIONS TOTAL = 1094
+Temps écoulé : 7ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |GP+|GN+|   |SP |   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |SP |   |
+|   |   |   |   |   |   |GS |   |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|   |SP+|SR+|   |SK |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+GOTE turn n° 128 NB ACTIONS UNIQUES = 274 NB ACTIONS TOTAL = 1090
+Temps écoulé : 6ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |GP+|GN+|   |SP |   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|   |SP+|SR+|   |SK |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : P
+
+
+SENTE turn n° 129 NB ACTIONS UNIQUES = 268 NB ACTIONS TOTAL = 1110
+Temps écoulé : 6ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |GP+|GN+|   |SP |   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|SP+|   |SR+|   |SK |GK |   |   |GB |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : P
+
+
+GOTE turn n° 130 NB ACTIONS UNIQUES = 266 NB ACTIONS TOTAL = 1102
+Temps écoulé : 6ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |   |SP |SG |   |   |   |   |GG |
+|SS |GP+|GN+|   |GB+|   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : PP
+
+
+SENTE turn n° 131 NB ACTIONS UNIQUES = 265 NB ACTIONS TOTAL = 1130
+Temps écoulé : 12ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |SP |SP |SG |   |   |   |   |GG |
+|SS |GP+|GN+|   |GB+|   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : PP
+
+
+GOTE turn n° 132 NB ACTIONS UNIQUES = 271 NB ACTIONS TOTAL = 1124
+Temps écoulé : 11ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |SP |GN+|SG |   |   |   |   |GG |
+|SS |GP+|   |   |GB+|   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |SP |
+|GP |   |   |GP |   |   |SP |   |GP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 133 NB ACTIONS UNIQUES = 263 NB ACTIONS TOTAL = 1142
+Temps écoulé : 15ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |SP |GN+|SG |   |   |   |   |GG |
+|SS |GP+|   |   |GB+|   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |   |SP |   |SP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |   |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 134 NB ACTIONS UNIQUES = 259 NB ACTIONS TOTAL = 1134
+Temps écoulé : 11ms|
+|SB |SN |   |   |   |SP |   |SN |SR |
+|SL |SP |GN+|SG |   |   |   |   |GG |
+|SS |GP+|   |   |GB+|   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |   |SP |   |SP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |GP |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPP
+Gote captured tokens : PP
+
+
+SENTE turn n° 135 NB ACTIONS UNIQUES = 265 NB ACTIONS TOTAL = 1152
+Temps écoulé : 14ms|
+|SB |SN |   |   |   |SP |   |SN |   |
+|SL |SP |GN+|SG |   |   |   |   |SR |
+|SS |GP+|   |   |GB+|   |GN+|   |SL |
+|SP |   |   |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |   |SP |   |SP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |GP |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPPG
+Gote captured tokens : PP
+
+
+GOTE turn n° 136 NB ACTIONS UNIQUES = 262 NB ACTIONS TOTAL = 1140
+Temps écoulé : 11ms|
+|SB |SN |   |   |   |SP |   |SN |   |
+|SL |SP |GN+|SG |   |   |   |   |SR |
+|SS |GP+|   |   |GB+|   |GN+|   |SL |
+|SP |   |GP |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |   |SP |   |SP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |GP |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPPG
+Gote captured tokens : P
+
+
+SENTE turn n° 137 NB ACTIONS UNIQUES = 268 NB ACTIONS TOTAL = 1158
+Temps écoulé : 10ms|
+|SB |SN |SP |   |   |SP |   |SN |   |
+|SL |SP |GN+|SG |   |   |   |   |SR |
+|SS |GP+|   |   |GB+|   |GN+|   |SL |
+|SP |   |GP |SP |GP |   |SS |GS |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |   |SP |   |SP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |GP |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPG
+Gote captured tokens : P
+
+
+GOTE turn n° 138 NB ACTIONS UNIQUES = 273 NB ACTIONS TOTAL = 1151
+Temps écoulé : 11ms|
+|SB |SN |SP |   |   |SP |   |SN |   |
+|SL |SP |GN+|SG |   |   |   |   |SR |
+|SS |GP+|   |   |GB+|   |GN+|   |SL |
+|SP |   |GP |SP |GP |   |SS |GS |   |
+|   |GP |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |   |SP |   |SP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |GP |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPG
+Gote captured tokens : 
+
+
+SENTE turn n° 139 NB ACTIONS UNIQUES = 279 NB ACTIONS TOTAL = 1169
+Temps écoulé : 16ms|
+|SB |   |SP |   |   |SP |   |SN |   |
+|SL |SP |GN+|SG |   |   |   |   |SR |
+|SS |GP+|SN |   |GB+|   |GN+|   |SL |
+|SP |   |GP |SP |GP |   |SS |GS |   |
+|   |GP |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |   |SP |   |SP |
+|SP+|   |SR+|   |SK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |GP |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPG
+Gote captured tokens : 
+
+
+GOTE turn n° 140 NB ACTIONS UNIQUES = 280 NB ACTIONS TOTAL = 1165
+Temps écoulé : 17ms|
+|SB |   |SP |   |   |SP |   |SN |   |
+|SL |SP |GN+|SG |   |   |   |   |SR |
+|SS |GP+|SN |   |GB+|   |GN+|   |SL |
+|SP |   |GP |SP |GP |   |SS |GS |   |
+|   |GP |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |   |SP |   |SP |
+|SP+|   |SR+|   |GK |GK |   |   |   |
+|GL |GS |GG |GG |   |   |GP |   |GL |
+|   |   |   |   |   |   |   |GP |   |
+Sente captured tokens : PPG
+Gote captured tokens : 
+
+
+GOTE WON!
+
+
+Temps total écoulé : 22489ms
+

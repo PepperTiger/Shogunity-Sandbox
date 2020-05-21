@@ -1,0 +1,29 @@
+Pour installer la sandbox
+
+Dézipper le fichier sandbox.zip dans un repertoire
+Si c'est dans le meme répertoire que celui dans lequel il y a eu un checkout du répository, alors remplacer les fichiers ou ignorer n'a pas d'importance car ceux-ci sont les mêmes
+
+
+Pour lancer la sandbox
+
+Executer bin/Release/Sandbox.exe
+
+
+Les fichiers de la sandbox et du jeu ne sont pas partagés, mais ceux-ci contiennent les mêmes informations
+La différence majeure entre la sandbox et le projet unity est que les classes "Monobehaviour" (le format des classes d'objets unity) ont été transformées en classes statiques afin de simuler les objets unity
+Ainsi, pour adapter les fichiers de l'un a l'autre, il faut ajouter ".instance" aux références des classes statiques de la sandbox vers le jeu, et le supprimer dans l'autre sens
+
+Pour ajouter une IA, il faut créer une classe qui étend AIHandler, et modifier le fichier "Program" afin d'ajouter dans les options la création d'un objet du type de la classe qui étend AIHandler et l'assigner à un des AIHandler du GameManager
+Cette opération a déjà été faite il faut regarder les exemples
+
+Ensuite, pour permettre l'affectation du coup, il faut affecter à l'attribut de AIHandler "moveToPlay" le coup déterminé par l'IA implémentée, la recherche peut se faire dans le thread run, ou bien passer par un autre programme comme une boite noire
+Après avoir affecté le coup, il faut attribuer "True" à la variable "isDone", pour que la synchronisation entre la recherche et la suite du tour se fasse
+
+
+PS : (Dans "Programme")
+
+Attention à bien modifier aussi la comparaison du choix de type d'IA en ajoutant 1 à celui-ci pour que le choix du type d'IA soit considéré comme valide, ou bien supprimer une des IA déjà implémentée
+
+Pour plus d'informations, vous pouvez me contacter via mon mail : gabriel.doisneau@laposte.net
+
+Bon courage!

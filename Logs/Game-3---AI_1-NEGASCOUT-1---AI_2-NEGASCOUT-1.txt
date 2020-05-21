@@ -1,0 +1,143 @@
+
+Player 1 : NEGASCOUT, Player 2 : NEGASCOUT
+Depth Player 1 : 1, Depth Player 2 : 1
+
+
+SENTE turn n° 1
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 31,
+Temps écoulé : 102ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 6|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 2
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 31,
+Temps écoulé : 94ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 0|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |GP |   |   |
+|GP |GP |GP |GP |GP |GP |   |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 3
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 38,
+Temps écoulé : 88ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1014|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |GP |   |   |
+|GP |GP |GP |GP |GP |GP |   |GP |GP |
+|   |GR |   |   |   |   |   |SB+|   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : B
+Gote captured tokens : 
+
+
+GOTE turn n° 4
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 34,
+Temps écoulé : 82ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 0|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |GP |   |   |
+|GP |GP |GP |GP |GP |GP |   |GP |GP |
+|   |   |   |   |   |   |   |GR |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : B
+Gote captured tokens : B
+
+
+SENTE turn n° 5
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 78,
+Temps écoulé : 201ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1211|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |GP |   |   |
+|GP |GP |GP |GP |GP |GP |   |GP |GP |
+|   |   |   |   |   |SB |   |GR |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : B
+
+
+GOTE turn n° 6
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 72,
+Temps écoulé : 181ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |GB |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |GP |   |   |
+|GP |GP |GP |GP |GP |GP |   |GP |GP |
+|   |   |   |   |   |SB |   |GR |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 7
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 41,
+Temps écoulé : 111ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 9999999|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |GB |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |GP |   |   |
+|GP |GP |GP |GP |GP |GP |   |GP |GP |
+|   |   |   |   |   |SB |   |GR |   |
+|GL |GN |GS |GG |SK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE WON!
+
+
+Temps total écoulé : 2462ms
+

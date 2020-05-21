@@ -1,0 +1,2271 @@
+
+Player 1 : NEGASCOUT, Player 2 : NEGASCOUT
+Depth Player 1 : 2, Depth Player 2 : 2
+
+
+SENTE turn n° 1
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 90,
+Temps écoulé : 1530ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 0|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 2
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 239,
+Temps écoulé : 1973ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -114|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 3
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 99,
+Temps écoulé : 1838ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 111|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |SB |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 4
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 268,
+Temps écoulé : 2348ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -423|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |SB |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|   |GR |   |   |GK |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 5
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 165,
+Temps écoulé : 2143ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 116|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |SB |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|   |GR |   |   |GK |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 6
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 99,
+Temps écoulé : 2203ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -423|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |SB |   |   |   |
+|GP |GP |GP |GP |GP |GK |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 7
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 192,
+Temps écoulé : 2873ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 112|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GK |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 8
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 201,
+Temps écoulé : 2774ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -417|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |GK |GP |GP |   |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 9
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 199,
+Temps écoulé : 3049ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 113|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |SS |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |GK |GP |GP |   |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 10
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 197,
+Temps écoulé : 2824ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -420|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |SS |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |GR |   |   |   |   |GK |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 11
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 172,
+Temps écoulé : 2267ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 145|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |SS |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |GR |   |   |   |   |GK |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 12
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 103,
+Temps écoulé : 2347ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -452|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |SS |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |GB |
+|   |GR |   |   |   |   |GK |   |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 13
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 255,
+Temps écoulé : 2805ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 40|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |SS |SP |SP |   |SP |SP |   |
+|   |   |SP |   |   |SP |   |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |GB |
+|   |GR |   |   |   |   |GK |   |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 14
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 198,
+Temps écoulé : 2613ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -449|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |SS |SP |SP |   |SP |SP |   |
+|   |   |SP |   |   |SP |   |   |SP |
+|   |   |   |   |SB |   |GB |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |GR |   |   |   |   |GK |   |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 15
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 268,
+Temps écoulé : 3000ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 32|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |SS |SP |SP |   |SP |   |   |
+|   |   |SP |   |   |SP |   |SP |SP |
+|   |   |   |   |SB |   |GB |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |GR |   |   |   |   |GK |   |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 16
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 205,
+Temps écoulé : 2946ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -449|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |SS |SP |SP |   |SP |   |   |
+|   |   |SP |   |   |SP |   |SP |SP |
+|   |   |   |   |SB |   |GB |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |   |   |   |   |GR |GK |   |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 17
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 200,
+Temps écoulé : 3058ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 65|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |   |SP |   |   |
+|   |SS |SP |   |   |SP |   |SP |SP |
+|   |   |   |   |SB |   |GB |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |   |   |   |   |GR |GK |   |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 18
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 215,
+Temps écoulé : 3254ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -480|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |   |SP |   |   |
+|   |SS |SP |   |   |SP |   |SP |SP |
+|   |   |   |   |SB |   |GB |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |   |   |   |   |GR |GK |GS |   |
+|GL |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 19
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 210,
+Temps écoulé : 3398ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 97|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |   |SP |   |   |
+|   |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |   |   |   |   |GR |GK |GS |   |
+|GL |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 20
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 221,
+Temps écoulé : 3542ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -482|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |   |SP |   |   |
+|   |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 21
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 444,
+Temps écoulé : 3605ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 67|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|   |   |   |   |   |   |   |   |GP |
+|GP |GP |GP |GP |GP |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 22
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 321,
+Temps écoulé : 3624ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -482|
+|SL |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |GP |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 23
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 466,
+Temps écoulé : 3964ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 66|
+|SL |SN |SG |   |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |GP |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 24
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 330,
+Temps écoulé : 3972ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -481|
+|SL |SN |SG |   |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|GP |   |   |   |GP |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 25
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 314,
+Temps écoulé : 4038ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 64|
+|SL |SN |SG |   |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |SB |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |   |   |GB |   |   |
+|GP |   |   |   |GP |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 26
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 340,
+Temps écoulé : 4098ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -277|
+|SL |SN |SG |   |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |SB |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |GP |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 27
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 136,
+Temps écoulé : 3696ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 166|
+|SL |SN |SG |   |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 28
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 335,
+Temps écoulé : 4091ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -581|
+|SL |SN |SG |   |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |   |
+|   |   |   |GB |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 29
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 269,
+Temps écoulé : 3224ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 176|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |   |
+|   |   |   |GB |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 30
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 221,
+Temps écoulé : 3202ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -583|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |SP |   |   |
+|SP |   |SP |   |   |SP |   |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 31
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 561,
+Temps écoulé : 4235ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 175|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |SP |   |   |SP |SP |SP |SP |
+|   |   |SS |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 32
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 358,
+Temps écoulé : 4218ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -585|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |SP |   |   |SP |SP |SP |SP |
+|   |   |SS |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |GB |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 33
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 390,
+Temps écoulé : 4062ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 38|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |SP |SS |   |SP |SP |SP |SP |
+|   |   |   |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |GB |   |GP |GP |   |
+|   |   |   |   |   |GR |   |GS |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 34
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 323,
+Temps écoulé : 3970ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -545|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |SP |SS |   |SP |SP |SP |SP |
+|   |   |   |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |GB |   |GP |GP |GS |
+|   |   |   |   |   |GR |   |   |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 35
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 399,
+Temps écoulé : 4130ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 133|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |SP |SP |SS |   |SP |SP |SP |SP |
+|   |   |   |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |GB |   |GP |GP |GS |
+|   |   |   |   |   |GR |   |   |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 36
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 142,
+Temps écoulé : 3837ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -443|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |SS |   |SP |SP |SP |SP |
+|   |   |   |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |GS |
+|   |   |   |   |   |GR |   |   |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 37
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 280,
+Temps écoulé : 6329ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 31|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |SS |   |SP |SP |SP |SP |
+|   |   |   |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |GS |
+|   |SP |   |   |   |GR |   |   |   |
+|GL |GN |GS |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 38
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 344,
+Temps écoulé : 5151ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -444|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |SS |   |SP |SP |SP |SP |
+|   |   |   |   |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+SENTE turn n° 39
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 303,
+Temps écoulé : 6596ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 32|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |SS |   |SP |SP |SP |SP |
+|   |   |   |   |SB |   |   |   |   |
+|GP |SP |   |   |   |   |   |   |GP |
+|   |GP |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+GOTE turn n° 40
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 340,
+Temps écoulé : 5945ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -443|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |SS |   |SP |SP |SP |SP |
+|   |   |   |   |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PPP
+
+
+SENTE turn n° 41
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 487,
+Temps écoulé : 7338ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -33|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |   |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PPP
+
+
+GOTE turn n° 42
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 382,
+Temps écoulé : 7938ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -373|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |GP |   |SR |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |   |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+SENTE turn n° 43
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 285,
+Temps écoulé : 5189ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -34|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |   |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+GOTE turn n° 44
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 376,
+Temps écoulé : 7079ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -373|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |GP |SR |   |   |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |   |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 45
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 258,
+Temps écoulé : 4867ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -34|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |   |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+GOTE turn n° 46
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 269,
+Temps écoulé : 6387ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -374|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |GP |   |   |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |   |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 47
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 239,
+Temps écoulé : 4749ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -34|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |   |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |GS |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+GOTE turn n° 48
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 268,
+Temps écoulé : 5407ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -441|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |   |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+SENTE turn n° 49
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 262,
+Temps écoulé : 5658ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 32|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |SP |   |SS |SB |   |   |   |   |
+|GP |GP |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 50
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 350,
+Temps écoulé : 4664ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -442|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |   |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |GP |   |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 51
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 287,
+Temps écoulé : 6679ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 32|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |GB |SP |   |   |SP |SP |SP |SP |
+|   |GP |   |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 52
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 346,
+Temps écoulé : 5724ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -542|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |SP |   |   |SP |SP |SP |SP |
+|   |GP |   |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 53
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 384,
+Temps écoulé : 5921ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 133|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |SP |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 54
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 156,
+Temps écoulé : 5630ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -439|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |GP |SR |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |SP |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 55
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 232,
+Temps écoulé : 4370ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 132|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |SP |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 56
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 268,
+Temps écoulé : 4546ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -440|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |GB |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 57
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 296,
+Temps écoulé : 6981ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 34|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |GB |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |GR |   |SP |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 58
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 267,
+Temps écoulé : 6020ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -534|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |GB |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+SENTE turn n° 59
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 472,
+Temps écoulé : 8104ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 36|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |SP |GB |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+GOTE turn n° 60
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 477,
+Temps écoulé : 7057ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -546|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |SP |   |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+SENTE turn n° 61
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 558,
+Temps écoulé : 6997ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 136|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |SP |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+GOTE turn n° 62
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 175,
+Temps écoulé : 6365ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -442|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |GP |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |SP |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : P
+
+
+SENTE turn n° 63
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 258,
+Temps écoulé : 4626ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 135|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |SP |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 64
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 154,
+Temps écoulé : 5370ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -441|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |GP |SR |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |SP |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 65
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 226,
+Temps écoulé : 4014ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 137|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |SP |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 66
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 143,
+Temps écoulé : 4227ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -534|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |GB |SP |
+|   |GP |SP |SS |SB |   |   |   |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 67
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 410,
+Temps écoulé : 6759ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 36|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |GB |SP |
+|   |GP |SP |SS |SB |   |   |SP |   |
+|GP |   |   |   |   |   |   |GS |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 68
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 365,
+Temps écoulé : 5883ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -501|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |   |   |
+|SP |   |   |   |   |SP |SP |GB |SP |
+|   |GP |SP |SS |SB |   |   |GS |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+SENTE turn n° 69
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 470,
+Temps écoulé : 7739ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 2|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |SP |GB |SP |
+|   |GP |SP |SS |SB |   |   |GS |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+GOTE turn n° 70
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 581,
+Temps écoulé : 7204ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -514|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |SP |   |SP |
+|   |GP |SP |SS |SB |   |   |GS |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+SENTE turn n° 71
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 434,
+Temps écoulé : 6982ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 75|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |   |   |SP |
+|   |GP |SP |SS |SB |   |SP |GS |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+GOTE turn n° 72
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 272,
+Temps écoulé : 6469ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -411|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |GP |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |   |   |SP |
+|   |GP |SP |SS |SB |   |SP |GS |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : P
+
+
+SENTE turn n° 73
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 257,
+Temps écoulé : 4631ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 75|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |   |   |SP |
+|   |GP |SP |SS |SB |   |SP |GS |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 74
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 255,
+Temps écoulé : 5452ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -410|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |GP |SR |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |   |   |SP |
+|   |GP |SP |SS |SB |   |SP |GS |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 75
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 225,
+Temps écoulé : 4054ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 75|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |   |   |SP |
+|   |GP |SP |SS |SB |   |SP |GS |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 76
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 484,
+Temps écoulé : 4631ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -482|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |SS |SB |   |SP |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 77
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 235,
+Temps écoulé : 4393ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 103|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |SB |   |SP |   |   |
+|GP |   |   |   |SS |   |   |   |GP |
+|   |   |GP |GP |GB |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 78
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 147,
+Temps écoulé : 4361ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -501|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |SB |   |GB |   |   |
+|GP |   |   |   |SS |   |   |   |GP |
+|   |   |GP |GP |   |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 79
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 420,
+Temps écoulé : 7062ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 53|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |SS+|   |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : P
+
+
+GOTE turn n° 80
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 431,
+Temps écoulé : 8436ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -464|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |SS+|GP |   |GP |GP |   |
+|   |GS |   |   |   |   |   |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+SENTE turn n° 81
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 336,
+Temps écoulé : 5590ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 60|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |SS+|GP |   |GP |GP |   |
+|   |GS |   |   |   |   |SP |GR |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 82
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 243,
+Temps écoulé : 4139ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -465|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |   |   |GP |
+|   |   |GP |SS+|GP |   |GP |GP |   |
+|   |GS |   |   |   |   |GR |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 83
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 396,
+Temps écoulé : 6697ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 57|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |SP |   |GP |
+|   |   |GP |SS+|GP |   |GP |GP |   |
+|   |GS |   |   |   |   |GR |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 84
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 365,
+Temps écoulé : 5784ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -763|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |SB |   |GB |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |   |   |GP |   |
+|   |GS |   |   |   |   |GR |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+SENTE turn n° 85
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 303,
+Temps écoulé : 7845ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 457|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |   |   |GB |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |   |   |GP |   |
+|   |GS |   |   |   |   |GR |   |   |
+|GL |GN |   |GG |   |GG |GK |GN |SB+|
+Sente captured tokens : LP
+Gote captured tokens : PP
+
+
+GOTE turn n° 86
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 619,
+Temps écoulé : 15340ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1067|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |   |   |GB |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |   |GN |GP |   |
+|   |GS |   |   |   |   |GR |   |   |
+|GL |GN |   |GG |   |GG |GK |   |SB+|
+Sente captured tokens : LP
+Gote captured tokens : PP
+
+
+SENTE turn n° 87
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 615,
+Temps écoulé : 14178ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 754|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |SP |GS |   |SP |
+|   |GP |SP |   |   |   |GB |   |   |
+|GP |SL |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |   |GN |GP |   |
+|   |GS |   |   |   |   |GR |   |   |
+|GL |GN |   |GG |   |GG |GK |   |SB+|
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+GOTE turn n° 88
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 294,
+Temps écoulé : 7218ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1657|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |GB |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |SL |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |   |GN |GP |   |
+|   |GS |   |   |   |   |GR |   |   |
+|GL |GN |   |GG |   |GG |GK |   |SB+|
+Sente captured tokens : P
+Gote captured tokens : PPP
+
+
+SENTE turn n° 89
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 191,
+Temps écoulé : 10408ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1046|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |GB |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |   |GN |GP |   |
+|   |SL+|   |   |   |   |GR |   |   |
+|GL |GN |   |GG |   |GG |GK |   |SB+|
+Sente captured tokens : SP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 90
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 257,
+Temps écoulé : 20208ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1748|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |GB |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |   |GN |GP |   |
+|   |GR |   |   |   |   |   |   |   |
+|GL |GN |   |GG |   |GG |GK |   |SB+|
+Sente captured tokens : SP
+Gote captured tokens : PPPL
+
+
+SENTE turn n° 91
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 1079,
+Temps écoulé : 36576ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1181|
+|SL |SN |SG |SK |   |SG |SS |SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |GB |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |SS |GN |GP |   |
+|   |GR |   |   |   |   |   |   |   |
+|GL |GN |   |GG |   |GG |GK |   |SB+|
+Sente captured tokens : P
+Gote captured tokens : PPPL
+
+
+GOTE turn n° 92
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 423,
+Temps écoulé : 18840ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1597|
+|SL |SN |SG |SK |   |SG |SS |SN |GB+|
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |SS |GN |GP |   |
+|   |GR |   |   |   |   |   |   |   |
+|GL |GN |   |GG |   |GG |GK |   |SB+|
+Sente captured tokens : P
+Gote captured tokens : PPLPL
+
+
+SENTE turn n° 93
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 290,
+Temps écoulé : 28398ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1093|
+|SL |SN |SG |SK |   |SG |SS |SN |GB+|
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |SS |SB+|GP |   |
+|   |GR |   |   |   |   |   |   |   |
+|GL |GN |   |GG |   |GG |GK |   |   |
+Sente captured tokens : NP
+Gote captured tokens : PPLPL
+
+
+GOTE turn n° 94
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 445,
+Temps écoulé : 52699ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1596|
+|SL |SN |SG |SK |   |SG |SS |SN |GB+|
+|   |   |   |GL |SR |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |SS |SB+|GP |   |
+|   |GR |   |   |   |   |   |   |   |
+|GL |GN |   |GG |   |GG |GK |   |   |
+Sente captured tokens : NP
+Gote captured tokens : PPLP
+
+
+SENTE turn n° 95
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 324,
+Temps écoulé : 32785ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1190|
+|SL |SN |SG |SK |   |SG |SS |SN |GB+|
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |SS |SB+|GP |   |
+|   |GR |   |   |   |   |   |   |   |
+|GL |GN |   |GG |   |GG |GK |   |   |
+Sente captured tokens : LNP
+Gote captured tokens : PPLP
+
+
+GOTE turn n° 96
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 392,
+Temps écoulé : 53889ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1691|
+|SL |SN |SG |SK |   |SG |SS |GB+|   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |SS |SB+|GP |   |
+|   |GR |   |   |   |   |   |   |   |
+|GL |GN |   |GG |   |GG |GK |   |   |
+Sente captured tokens : LNP
+Gote captured tokens : PPNLP
+
+
+SENTE turn n° 97
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 457,
+Temps écoulé : 77797ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1193|
+|SL |SN |SG |SK |   |SG |SS |GB+|   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |SS |SB+|GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |GK |   |   |
+Sente captured tokens : NP
+Gote captured tokens : PPNLP
+
+
+GOTE turn n° 98
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 626,
+Temps écoulé : 46396ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1891|
+|SL |SN |SG |SK |   |SG |SS |GB+|   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |   |GP |SS+|GP |SS |SB+|GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : NP
+Gote captured tokens : PPNLP
+
+
+SENTE turn n° 99
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 995,
+Temps écoulé : 48548ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1344|
+|SL |SN |SG |SK |   |SG |SS |GB+|   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |SN |GP |SS+|GP |SS |SB+|GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : P
+Gote captured tokens : PPNLP
+
+
+GOTE turn n° 100
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 632,
+Temps écoulé : 27567ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1894|
+|SL |SN |SG |SK |   |SG |SS |   |   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |GB+|GP |SS+|GP |SS |SB+|GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : P
+Gote captured tokens : PPNLPN
+
+
+SENTE turn n° 101
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 761,
+Temps écoulé : 36586ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1188|
+|SL |SN |SG |SK |   |SG |SS |   |   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |   |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |GB+|GP |   |SS+|SS |SB+|GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PP
+Gote captured tokens : PPNLPN
+
+
+GOTE turn n° 102
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 505,
+Temps écoulé : 46386ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1640|
+|SL |SN |SG |SK |   |SG |SS |   |   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |GN |   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |GB+|GP |   |SS+|SS |SB+|GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PP
+Gote captured tokens : PPNLP
+
+
+SENTE turn n° 103
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 671,
+Temps écoulé : 35237ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1192|
+|SL |SN |SG |SK |   |SG |SS |   |   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |GB+|GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : NPP
+Gote captured tokens : PPNLP
+
+
+GOTE turn n° 104
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 464,
+Temps écoulé : 62244ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1643|
+|SL |SN |SG |SK |   |SG |SS |   |   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |GN |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |   |   |   |   |   |GP |   |GP |
+|   |GB+|GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : NPP
+Gote captured tokens : PPLP
+
+
+SENTE turn n° 105
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 1423,
+Temps écoulé : 43420ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1191|
+|SL |SN |SG |SK |   |SG |SS |   |   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |   |   |SP |   |
+|SP |   |   |   |   |GN |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |GB+|GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PP
+Gote captured tokens : PPLP
+
+
+GOTE turn n° 106
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 345,
+Temps écoulé : 25997ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1642|
+|SL |SN |SG |SK |   |SG |SS |   |   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |   |   |   |GN |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PP
+Gote captured tokens : PPLP
+
+
+SENTE turn n° 107
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 556,
+Temps écoulé : 26451ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1090|
+|SL |SN |SG |   |SK |SG |SS |   |   |
+|   |   |   |SR |   |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |   |   |   |GN |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PP
+Gote captured tokens : PPLP
+
+
+GOTE turn n° 108
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 342,
+Temps écoulé : 25670ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1592|
+|SL |SN |SG |   |SK |SG |SS |   |   |
+|   |   |   |SR |GL |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |   |   |   |GN |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 109
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 407,
+Temps écoulé : 14610ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 636|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |SR |SG |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |   |   |   |GN |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 110
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 295,
+Temps écoulé : 25427ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1395|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |SR |GN+|   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLP
+Gote captured tokens : PPGP
+
+
+SENTE turn n° 111
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 380,
+Temps écoulé : 46364ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 391|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |   |   |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLNP
+Gote captured tokens : PPGP
+
+
+GOTE turn n° 112
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 763,
+Temps écoulé : 68623ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1238|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |   |SR |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |GG |   |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 113
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 831,
+Temps écoulé : 45886ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 339|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |SR |   |   |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |GG |   |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |SN |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |GR |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 114
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 687,
+Temps écoulé : 48620ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -994|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |SR |   |   |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |GG |   |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |GR |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |   |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLNP
+Gote captured tokens : PPPN
+
+
+SENTE turn n° 115
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 454,
+Temps écoulé : 68543ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 587|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |SR |   |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |GR |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |   |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLNGP
+Gote captured tokens : PPPN
+
+
+GOTE turn n° 116
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 467,
+Temps écoulé : 91510ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1341|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |SR |GN |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |GR |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |   |   |   |   |   |SL |   |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLNGP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 117
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 688,
+Temps écoulé : 57971ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 940|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |GB+|   |SP |   |
+|SP |   |SR |GN |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |GR |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |   |   |   |   |   |SL |SG |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 118
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 342,
+Temps écoulé : 41967ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -9999999|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |   |GB+|SP |   |
+|SP |   |SR |GN |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |GR |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |   |   |   |   |   |SL |SG |   |
+|GL |GN |   |GG |   |GG |   |GK |   |
+Sente captured tokens : PLNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 119
+Début recherche NegaScout
+Fin recherche NegaScout
+Nombre de noeuds visités : 308,
+Temps écoulé : 41365ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 9999999|
+|SL |SN |SG |   |SK |   |SS |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |   |GB+|SP |   |
+|SP |   |SR |GN |   |   |GS |   |SP |
+|   |GP |SP |   |SB+|   |   |   |   |
+|GP |GR |   |   |   |   |GP |   |GP |
+|   |   |GP |   |SS+|SS |   |GP |   |
+|   |   |   |   |   |   |SL |SG |   |
+|GL |GN |   |GG |   |GG |   |SK |   |
+Sente captured tokens : PLNP
+Gote captured tokens : PPP
+
+
+SENTE WON!
+
+
+Temps total écoulé : 1778102ms
+

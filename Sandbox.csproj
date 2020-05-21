@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{3217D643-8660-4A1E-B3A2-DB3B3231BBB1}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Sandbox</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".vs\ProjectSettings.json" />
+    <None Include=".vs\Sandbox\v14\.suo" />
+    <None Include=".vs\Sandbox\v15\.suo" />
+    <None Include=".vs\Sandbox\v15\Server\sqlite3\db.lock" />
+    <None Include=".vs\Sandbox\v15\Server\sqlite3\storage.ide" />
+    <None Include=".vs\Sandbox\v15\Server\sqlite3\storage.ide-shm" />
+    <None Include=".vs\Sandbox\v15\Server\sqlite3\storage.ide-wal" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\VSWorkspaceState.json" />
+    <None Include="app.config" />
+    <None Include="Sandbox.userprefs" />
+    <None Include="Sandbox.zip" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sources\Game\AI\AIHandler.cs" />
+    <Compile Include="Sources\Game\AI\AlphaBeta.cs" />
+    <Compile Include="Sources\Game\AI\MiniMax.cs" />
+    <Compile Include="Sources\Game\AI\NegaScout.cs" />
+    <Compile Include="Sources\Game\AI\Node.cs" />
+    <Compile Include="Sources\Game\AI\NodeTree.cs" />
+    <Compile Include="Sources\Game\AI\ProofNumberSearch.cs" />
+    <Compile Include="Sources\Game\AI\ReinforcementProgram.cs" />
+    <Compile Include="Sources\Game\Box.cs" />
+    <Compile Include="Sources\Game\CaptureBench.cs" />
+    <Compile Include="Sources\Game\CaptureBox.cs" />
+    <Compile Include="Sources\Game\RandomGame.cs" />
+    <Compile Include="Sources\Game\Tokens\Bishop.cs" />
+    <Compile Include="Sources\Game\Tokens\Gold.cs" />
+    <Compile Include="Sources\Game\Tokens\Jewel.cs" />
+    <Compile Include="Sources\Game\Tokens\King.cs" />
+    <Compile Include="Sources\Game\Tokens\Knight.cs" />
+    <Compile Include="Sources\Game\Tokens\Lance.cs" />
+    <Compile Include="Sources\Game\Tokens\Pawn.cs" />
+    <Compile Include="Sources\Game\Tokens\Rook.cs" />
+    <Compile Include="Sources\Game\Tokens\Silver.cs" />
+    <Compile Include="Sources\Game\Tokens\Token.cs" />
+    <Compile Include="Sources\Game\_GameConfig.cs" />
+    <Compile Include="Sources\Game\_GameManager.cs" />
+    <Compile Include="Sources\Game\_init.cs" />
+    <Compile Include="Sources\Utils\Atom.cs" />
+    <Compile Include="Sources\Utils\BagofAnswers.cs" />
+    <Compile Include="Sources\Utils\Compiler.cs" />
+    <Compile Include="Sources\Utils\FindallAnswers.cs" />
+    <Compile Include="Sources\Utils\Functor.cs" />
+    <Compile Include="Sources\Utils\Functor1.cs" />
+    <Compile Include="Sources\Utils\Functor2.cs" />
+    <Compile Include="Sources\Utils\Functor3.cs" />
+    <Compile Include="Sources\Utils\IndexedAnswers.cs" />
+    <Compile Include="Sources\Utils\ListPair.cs" />
+    <Compile Include="Sources\Utils\Parser.cs" />
+    <Compile Include="Sources\Utils\PrologException.cs" />
+    <Compile Include="Sources\Utils\ShogiUtils.cs" />
+    <Compile Include="Sources\Utils\Variable.cs" />
+    <Compile Include="Sources\Utils\YP.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logs\Game-0---AI_1-ALPHABETA-2---AI_2-ALPHABETA-2.txt" />
+    <Content Include="Logs\Game-1---AI_1-NEGASCOUT-2---AI_2-NEGASCOUT-2.txt" />
+    <Content Include="Logs\Game-11---AI_1-MINMAX-1---AI_2-MINMAX-1.txt" />
+    <Content Include="Logs\Game-2---AI_1-ALPHABETA-1---AI_2-ALPHABETA-1.txt" />
+    <Content Include="Logs\Game-3---AI_1-NEGASCOUT-1---AI_2-NEGASCOUT-1.txt" />
+    <Content Include="Logs\Game-4---AI_1-MINMAX-1---AI_2-MINMAX-1.txt" />
+    <Content Include="Logs\Game-5---AI_1-RNG-5---AI_2-RNG-5.txt" />
+    <Content Include="Logs\Game-8---AI_1-RNG-5---AI_2-RNG-5.txt" />
+    <Content Include="Logs\LIST_OF_MOVES-5---AI_1-RNG-5---AI_2-RNG-5.txt" />
+    <Content Include="Logs\LIST_OF_MOVES-8---AI_1-RNG-5---AI_2-RNG-5.txt" />
+    <Content Include="Logs\MOVES-11---AI_1-MINMAX-1---AI_2-MINMAX-1.txt" />
+    <Content Include="Logs\MOVES-5---AI_1-RNG-5---AI_2-RNG-5.txt" />
+    <Content Include="Logs\MOVES-8---AI_1-RNG-5---AI_2-RNG-5.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

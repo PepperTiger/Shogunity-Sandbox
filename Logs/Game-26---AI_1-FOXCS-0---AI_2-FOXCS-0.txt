@@ -1,0 +1,1284 @@
+
+Player 1 : FOXCS, Player 2 : FOXCS
+Depth Player 1 : 0, Depth Player 2 : 0
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SR |   |   |   |
+|SP |SP |SP |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SR |   |   |   |
+|SP |SP |SP |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|GR |   |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SR |   |   |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|GR |   |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |SR |   |   |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|GR |   |   |   |   |   |   |GB |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |SB+|GP |GP |
+|GR |   |   |   |   |   |   |GB |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : 
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|GP |GP |GP |   |GP |GP |SB+|GP |GP |
+|GR |   |   |   |   |   |   |GB |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : 
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|SP |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|GP |GP |GP |   |GP |GP |SB+|GP |GP |
+|GR |   |   |   |   |   |   |GB |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : 
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|SP |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|GP |GP |GP |   |GP |GP |GB |GP |GP |
+|GR |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : b
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|SP |   |   |   |   |   |   |   |   |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|GP |GP |GP |   |GP |GP |GB |GP |GP |
+|GR |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : b
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|SP |   |   |   |   |   |   |   |   |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|GP |GP |GP |   |GP |GP |GB |GP |GP |
+|GR |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : b
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|SP |   |SP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|GP |GP |GP |   |GP |GP |GB |GP |GP |
+|GR |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : b
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|SP |   |SP |   |   |   |   |   |   |
+|   |   |GP |GP |   |   |   |   |   |
+|GP |GP |   |   |GP |GP |GB |GP |GP |
+|GR |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : b
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |SP |   |   |   |   |   |   |
+|SP |   |GP |GP |   |   |   |   |   |
+|GP |GP |   |   |GP |GP |GB |GP |GP |
+|GR |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : b
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|SP |   |   |GP |   |   |   |   |   |
+|GP |GP |   |   |GP |GP |GB |GP |GP |
+|GR |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : p
+Gote captured tokens : pb
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|SP+|GP |   |   |GP |GP |GB |GP |GP |
+|GR |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : pp
+Gote captured tokens : pb
+
+
+|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|GR |GP |   |   |GP |GP |GB |GP |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : pp
+Gote captured tokens : ppb
+
+
+|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |   |   |
+|SL+|GP |   |   |GP |GP |GB |GP |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : rpp
+Gote captured tokens : ppb
+
+
+|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |GP |   |
+|SL+|GP |   |   |GP |GP |GB |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : rpp
+Gote captured tokens : ppb
+
+
+|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |GP |   |
+|   |SL+|   |   |GP |GP |GB |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : rppp
+Gote captured tokens : ppb
+
+
+|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |GB |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |GP |   |
+|   |SL+|   |   |GP |GP |GB |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : rppp
+Gote captured tokens : pp
+
+
+|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SR |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |GP |   |
+|   |SL+|   |   |GP |GP |GB |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : rpppb
+Gote captured tokens : pp
+
+
+|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |GB+|   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |GP |   |
+|   |SL+|   |   |GP |GP |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : rpppb
+Gote captured tokens : ppr
+
+
+|
+|   |SN |   |SG |SK |SG |SS |SN |SL |
+|   |SS |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |GP |   |
+|   |SL+|   |   |GP |GP |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GL |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : brpppb
+Gote captured tokens : ppr
+
+
+|
+|GL+|SN |   |SG |SK |SG |SS |SN |SL |
+|   |SS |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |GP |   |
+|   |SL+|   |   |GP |GP |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : brpppb
+Gote captured tokens : ppr
+
+
+|
+|SS |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |   |   |GP |   |
+|   |SL+|   |   |GP |GP |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lbrpppb
+Gote captured tokens : ppr
+
+
+|
+|SS |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |   |   |   |   |
+|   |SL+|   |   |GP |GP |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lbrpppb
+Gote captured tokens : ppr
+
+
+|
+|SS |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |   |   |   |   |
+|   |SL+|   |   |GP |GP |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |GN |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lbrpppb
+Gote captured tokens : ppr
+
+
+|
+|SS |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |   |   |   |   |
+|GN |SL+|   |   |GP |GP |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lbrpppb
+Gote captured tokens : ppr
+
+
+|
+|SS |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |   |   |   |   |
+|SL+|   |   |   |GP |GP |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrpppb
+Gote captured tokens : ppr
+
+
+|
+|SS |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |   |   |   |GP |
+|SL+|   |   |   |GP |GP |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrpppb
+Gote captured tokens : ppr
+
+
+|
+|SS |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |GP |   |   |   |
+|   |SL+|   |   |   |   |   |   |GL |
+|   |   |GS |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrpppb
+Gote captured tokens : ppr
+
+
+|
+|SS |SN |   |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |GP |   |   |   |
+|   |GS |   |   |   |   |   |   |GL |
+|   |   |   |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrpppb
+Gote captured tokens : pprl
+
+
+|
+|SS |SN |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|   |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |GP |   |   |   |
+|   |GS |   |   |   |   |   |   |GL |
+|   |   |   |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrpppb
+Gote captured tokens : pprl
+
+
+|
+|SS |SN |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|   |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |GS |   |   |   |   |   |   |GL |
+|   |   |   |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrpppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |GP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |GS |   |   |   |   |   |   |GL |
+|   |   |   |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrpppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |SP |   |SP |SP |   |SP |SP |SP |
+|   |   |   |   |   |SP |   |GP |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |GS |   |   |   |   |   |   |GL |
+|   |   |   |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrpppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |SP |   |SP |SP |   |SP |   |SP |
+|   |   |   |   |   |SP |   |SP |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |GS |   |   |   |   |   |   |GL |
+|   |   |   |GG |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |SP |   |SP |SP |   |SP |   |SP |
+|   |   |   |   |   |SP |   |SP |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |GS |   |GG |   |   |   |   |GL |
+|   |   |   |   |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |SP |   |SP |SP |   |SP |   |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |GS |   |GG |   |   |   |   |GL |
+|   |   |   |   |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |SP |   |SP |SP |   |SP |   |SP |
+|   |   |   |   |   |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |   |   |GG |   |   |   |   |GL |
+|GS |   |   |   |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |SP |   |SP |   |   |SP |   |SP |
+|   |   |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |   |   |GG |   |   |   |   |GL |
+|GS |   |   |   |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |SP |   |SP |   |   |SP |   |SP |
+|   |   |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |   |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SP |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |   |GK |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |SG |   |SN |SL |
+|   |   |   |   |   |   |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SP |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |   |   |SN |SL |
+|   |   |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SP |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |GN |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |   |SG |SK |   |   |SN |SL |
+|   |   |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SP |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |GN |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |SG |   |SK |   |   |SN |SL |
+|   |   |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SP |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |SP |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |GN |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pprl
+
+
+|
+|SS |   |SG |   |SK |   |   |SN |SL |
+|   |   |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SP |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |GN |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : ppprl
+
+
+|
+|SS |   |   |   |SK |   |   |SN |SL |
+|   |SG |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SP |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |GN |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : ppprl
+
+
+|
+|SS |   |   |   |SK |   |   |SN |SL |
+|   |SG |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |GN+|
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnbrppppb
+Gote captured tokens : pppprl
+
+
+|
+|SS |   |   |   |SK |   |   |   |SL |
+|   |SG |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppprl
+
+
+|
+|SS |   |   |   |SK |   |   |   |SL |
+|   |SG |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |SP |   |   |   |
+|   |   |GP |   |   |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |   |GG |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppprl
+
+
+|
+|SS |   |   |   |SK |   |   |   |SL |
+|   |SG |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |SP |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |   |GG |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppprl
+
+
+|
+|SS |   |   |   |SK |   |   |   |SL |
+|   |SG |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |   |GG |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppprl
+
+
+|
+|SS |   |   |SK |   |   |   |   |SL |
+|   |SG |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |   |GG |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppprl
+
+
+|
+|SS |   |   |SK |   |   |   |   |SL |
+|   |SG |   |   |   |SG |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppprl
+
+
+|
+|SS |   |   |SK |   |SG |   |   |SL |
+|   |SG |   |   |   |   |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |GG |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppprl
+
+
+|
+|SS |   |   |SK |   |SG |   |   |SL |
+|   |SG |   |   |   |   |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |GG |   |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppprl
+
+
+|
+|SS |   |   |   |   |SG |   |   |SL |
+|   |SG |   |   |SK |   |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |GG |   |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppprl
+
+
+|
+|SS |   |   |   |   |SG |   |   |SL |
+|   |SG |   |   |SK |   |SS |   |   |
+|SN |   |   |SP |   |   |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |GG |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppprl
+
+
+|
+|SS |   |   |   |   |SG |   |   |SL |
+|   |SG |   |   |   |   |SS |   |   |
+|SN |   |   |SP |   |SK |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |GG |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |   |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppprl
+
+
+|
+|SS |   |   |   |   |SG |   |   |SL |
+|   |SG |   |   |   |   |SS |   |   |
+|SN |   |   |SP |   |SK |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |GG |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppppr
+
+
+|
+|SS |   |   |   |   |SG |   |   |   |
+|   |SG |   |   |   |   |SS |   |SL |
+|SN |   |   |SP |   |SK |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|   |   |GP |   |   |GP |   |   |   |
+|   |GG |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppppr
+
+
+|
+|SS |   |   |   |   |SG |   |   |   |
+|   |SG |   |   |   |   |SS |   |SL |
+|SN |   |   |SP |   |SK |SP |   |SN |
+|   |SP |   |   |SP |   |   |   |   |
+|GG |   |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppppr
+
+
+|
+|SS |   |   |   |   |SG |   |   |   |
+|   |SG |   |   |   |   |SS |   |SL |
+|SN |   |   |SP |   |SK |SP |   |SN |
+|   |   |   |   |SP |   |   |   |   |
+|GG |SP |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |   |   |   |   |   |   |   |GL |
+|GS |   |   |GK |   |GG |GS |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppppr
+
+
+|
+|SS |   |   |   |   |SG |   |   |   |
+|   |SG |   |   |   |   |SS |   |SL |
+|SN |   |   |SP |   |SK |SP |   |SN |
+|   |   |   |   |SP |   |   |   |   |
+|GG |SP |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |   |   |   |   |   |   |GS |GL |
+|GS |   |   |GK |   |GG |   |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |SG |   |   |   |   |SS |   |SL |
+|SN |   |   |SP |   |SK |SP |   |SN |
+|   |   |   |   |SP |   |   |   |   |
+|GG |SP |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |   |   |   |   |   |   |GS |GL |
+|GS |   |   |GK |   |GG |   |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : pppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |SG |   |   |   |   |SS |   |SL |
+|SN |   |   |SP |   |SK |SP |   |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |GG |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |   |   |   |   |   |   |GS |GL |
+|GS |   |   |GK |   |GG |   |   |   |
+Sente captured tokens : lnnbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |SG |   |   |   |   |SS |   |SL |
+|   |   |   |SP |   |SK |SP |   |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |   |   |   |   |   |   |GS |GL |
+|GS |   |   |GK |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |SG |   |   |   |   |SS |   |SL |
+|   |   |   |SP |   |SK |SP |   |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |GS |   |   |   |   |   |GS |GL |
+|   |   |   |GK |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |SG |   |   |   |   |   |   |SL |
+|   |   |   |SP |   |SK |SP |SS |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |GS |   |   |   |   |   |GS |GL |
+|   |   |   |GK |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |SG |   |   |   |   |   |   |SL |
+|   |   |   |SP |   |SK |SP |SS |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |GS |GK |   |   |   |   |GS |GL |
+|   |   |   |   |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |   |SK |SP |SS |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |GP |   |   |   |GL |
+|   |GS |GK |   |   |   |   |GS |GL |
+|   |   |   |   |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |   |SK |SP |SS |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |GP |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |GS |GK |   |   |   |   |GS |GL |
+|   |   |   |   |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |SS |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |GP |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |GS |GK |   |   |   |   |GS |GL |
+|   |   |   |   |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|SS |   |   |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |SS |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |GP |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GK |   |   |   |   |GS |GL |
+|   |   |GS |   |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |   |   |   |   |SG |   |   |
+|   |SS |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |SS |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |   |GP |   |   |   |
+|   |   |   |GP |GP |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GK |   |   |   |   |GS |GL |
+|   |   |GS |   |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |   |   |   |   |SG |   |   |
+|   |SS |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |SS |SN |
+|   |   |   |   |SP |   |   |   |   |
+|   |SN |GP |   |GP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GK |   |   |   |   |GS |GL |
+|   |   |GS |   |   |GG |   |   |   |
+Sente captured tokens : lnngbrppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |   |   |   |   |SG |   |   |
+|   |SS |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |SS |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |SN |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GK |   |   |   |   |GS |GL |
+|   |   |GS |   |   |GG |   |   |   |
+Sente captured tokens : lnngbrpppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |   |   |   |   |SG |   |   |
+|   |SS |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |SS |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |SN |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GK |   |   |GG |   |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrpppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |SS |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |SN |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |GK |   |   |GG |   |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrpppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |SS |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |SN |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |   |   |   |GG |   |GS |GL |
+|   |GK |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrpppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |SS |
+|   |SN |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|   |   |   |   |   |GG |   |GS |GL |
+|   |GK |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrpppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |SS |
+|   |SN |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GK |   |   |   |   |GG |   |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrpppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |SN |GP |   |SP |GP |   |SS |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |   |   |GL |
+|GK |   |   |   |   |GG |   |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrpppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |SN |GP |   |SP |GP |   |SS |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |   |   |   |   |   |GG |   |GL |
+|GK |   |   |   |   |   |   |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrpppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |SN |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |SS |
+|   |   |   |   |   |   |GG |   |GL |
+|GK |   |   |   |   |   |   |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrppppppb
+Gote captured tokens : ppppppr
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |SN |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GL |
+|   |   |   |   |   |   |GG |   |   |
+|GK |   |   |   |   |   |   |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrppppppb
+Gote captured tokens : pppppprs
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GL |
+|SN+|   |   |   |   |   |GG |   |   |
+|GK |   |   |   |   |   |   |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrppppppb
+Gote captured tokens : pppppprs
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GL |
+|SN+|   |   |   |   |   |   |   |   |
+|GK |   |   |   |   |   |GG |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrppppppb
+Gote captured tokens : pppppprs
+
+
+|
+|   |   |SS |   |   |   |SG |   |   |
+|   |   |   |   |   |   |   |   |SL |
+|   |   |SG |SP |SK |   |SP |   |SN |
+|   |   |   |   |   |   |   |   |   |
+|   |   |GP |   |SP |GP |   |   |   |
+|   |   |   |GP |   |   |   |   |GL |
+|SN+|   |   |   |   |   |   |   |   |
+|SK |   |   |   |   |   |GG |GS |GL |
+|   |   |GS |   |   |   |   |   |   |
+Sente captured tokens : lnngbrppppppb
+Gote captured tokens : pppppprs
+
+
+GOTE WON!
+
+
+Temps total écoulé : 245096ms
+

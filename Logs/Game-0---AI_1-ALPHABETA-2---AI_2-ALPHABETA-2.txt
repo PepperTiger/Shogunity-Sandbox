@@ -1,0 +1,2803 @@
+
+Player 1 : ALPHABETA, Player 2 : ALPHABETA
+Depth Player 1 : 2, Depth Player 2 : 2
+
+
+SENTE turn n° 1
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 125,
+Temps écoulé : 228ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 0|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|GP |GP |GP |GP |GP |GP |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+GOTE turn n° 2
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 662,
+Temps écoulé : 1070ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -114|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |SB |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |GP |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : 
+
+
+SENTE turn n° 3
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 194,
+Temps écoulé : 357ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 111|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |SB |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|   |GR |   |   |   |   |   |GB |   |
+|GL |GN |GS |GG |GK |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 4
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 791,
+Temps écoulé : 1346ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -423|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |SP |
+|   |   |SP |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |SB |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|   |GR |   |   |GK |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 5
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 169,
+Temps écoulé : 334ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 116|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |SB |   |   |   |
+|GP |GP |GP |GP |GP |   |GP |GP |GP |
+|   |GR |   |   |GK |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 6
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 579,
+Temps écoulé : 1005ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -423|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|SP |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |SB |   |   |   |
+|GP |GP |GP |   |GP |   |GP |GP |GP |
+|   |GR |   |   |GK |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 7
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 150,
+Temps écoulé : 296ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 117|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |SP |SP |   |
+|SP |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |SB |   |   |   |
+|GP |GP |GP |   |GP |   |GP |GP |GP |
+|   |GR |   |   |GK |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 8
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 602,
+Temps écoulé : 1037ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -422|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |SP |SP |   |
+|SP |   |SP |   |   |   |   |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |SB |   |   |GP |
+|GP |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 9
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 178,
+Temps écoulé : 354ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 115|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|SP |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |SB |   |   |GP |
+|GP |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |   |   |GB |   |
+|GL |GN |GS |GG |   |GG |GS |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 10
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 669,
+Temps écoulé : 1175ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -420|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |SP |SP |   |
+|   |   |SP |   |   |   |   |   |SP |
+|SP |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |SB |   |   |GP |
+|GP |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |GS |   |GB |   |
+|GL |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 11
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 296,
+Temps écoulé : 525ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 114|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|SP |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |SB |   |   |GP |
+|GP |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |GS |   |GB |   |
+|GL |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 12
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 651,
+Temps écoulé : 1163ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -419|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|SP |   |   |   |   |   |   |   |   |
+|GP |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |GS |   |GB |   |
+|GL |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+SENTE turn n° 13
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 161,
+Temps écoulé : 338ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 115|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|SP |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |GS |   |GB |   |
+|GL |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 14
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 303,
+Temps écoulé : 572ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -419|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|GL |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |GS |   |GB |   |
+|   |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 15
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1989,
+Temps écoulé : 3745ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 312|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|SL |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |GS |   |GB |   |
+|   |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : LPP
+Gote captured tokens : P
+
+
+GOTE turn n° 16
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3419,
+Temps écoulé : 7040ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -922|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|SL |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |   |GS |   |GB |   |
+|   |GN |GS |GG |GK |GG |   |GN |GL |
+Sente captured tokens : LPP
+Gote captured tokens : P
+
+
+SENTE turn n° 17
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 849,
+Temps écoulé : 1781ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 617|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |   |   |SR |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|SL |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |   |GS |   |GB |   |
+|   |GN |GS |GG |GK |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+GOTE turn n° 18
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 878,
+Temps écoulé : 1652ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -930|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |GP |   |SR |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|SL |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |   |GS |   |GB |   |
+|   |GN |GS |GG |GK |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 19
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 226,
+Temps écoulé : 461ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 713|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|SL |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |   |GS |   |GB |   |
+|   |GN |GS |GG |GK |GG |   |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+GOTE turn n° 20
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1018,
+Temps écoulé : 1870ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1023|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|SL |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |GS |   |GB |   |
+|   |GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+SENTE turn n° 21
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 347,
+Temps écoulé : 668ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1013|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |   |GP |GP |   |
+|   |GR |   |   |GK |GS |   |GB |   |
+|SL+|GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+GOTE turn n° 22
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1557,
+Temps écoulé : 2840ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1425|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |GP |   |SB |   |   |GP |
+|   |GP |GP |   |GP |GK |GP |GP |   |
+|   |GR |   |   |   |GS |   |GB |   |
+|SL+|GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+SENTE turn n° 23
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1658,
+Temps écoulé : 3047ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1014|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |GP |GP |   |GP |GK |GP |GP |   |
+|   |GR |   |   |   |GS |   |GB |   |
+|SL+|GN |GS |GG |   |GG |   |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+GOTE turn n° 24
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1674,
+Temps écoulé : 3097ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1422|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|   |GP |GP |   |GP |GK |GP |GP |   |
+|   |GR |   |   |   |   |   |GB |   |
+|SL+|GN |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+SENTE turn n° 25
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 520,
+Temps écoulé : 1009ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1115|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|SP |   |   |GP |   |   |   |   |GP |
+|   |GP |GP |   |GP |GK |GP |GP |   |
+|   |GR |   |   |   |   |   |GB |   |
+|SL+|GN |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 26
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 289,
+Temps écoulé : 540ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1718|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|SP |   |   |GP |   |   |   |   |GP |
+|   |GP |GP |   |GP |GK |GP |GP |GB |
+|   |GR |   |   |   |   |   |   |   |
+|SL+|GN |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 27
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1011,
+Temps écoulé : 1800ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1014|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|SP+|GP |GP |   |GP |GK |GP |GP |GB |
+|   |GR |   |   |   |   |   |   |   |
+|SL+|GN |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 28
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 706,
+Temps écoulé : 1359ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1714|
+|SL |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GN |GP |GP |   |GP |GK |GP |GP |GB |
+|   |GR |   |   |   |   |   |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 29
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1032,
+Temps écoulé : 1979ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1401|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|SL+|GP |GP |   |GP |GK |GP |GP |GB |
+|   |GR |   |   |   |   |   |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : NPP
+Gote captured tokens : P
+
+
+GOTE turn n° 30
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 4116,
+Temps écoulé : 8468ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2317|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|SL+|GP |GP |   |GP |GK |GP |GP |GB |
+|   |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : NPP
+Gote captured tokens : P
+
+
+SENTE turn n° 31
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2448,
+Temps écoulé : 4973ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 2004|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |SP |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|SL+|GP |GP |SN |GP |GK |GP |GP |GB |
+|   |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+GOTE turn n° 32
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2295,
+Temps écoulé : 4342ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2606|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|   |   |   |   |   |SR |   |   |   |
+|   |SP |   |SP |GB+|SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|SL+|GP |GP |SN |GP |GK |GP |GP |   |
+|   |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : PP
+
+
+SENTE turn n° 33
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3366,
+Temps écoulé : 6794ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1415|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |GB+|SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|SL+|GP |GP |SN |GP |GK |GP |GP |   |
+|   |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : PP
+
+
+GOTE turn n° 34
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3745,
+Temps écoulé : 7591ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2220|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |   |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |GB+|   |GP |   |   |   |   |GP |
+|SL+|GP |GP |SN |GP |GK |GP |GP |   |
+|   |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : PP
+
+
+SENTE turn n° 35
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2415,
+Temps écoulé : 4881ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1601|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|   |SP |   |SP |   |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |GB+|   |GP |   |   |   |   |GP |
+|SL+|GP |GP |SN |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+GOTE turn n° 36
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3062,
+Temps écoulé : 5838ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2300|
+|   |SN |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|GP |SP |   |SP |   |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |GB+|   |GP |   |   |   |   |GP |
+|SL+|GP |GP |SN |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 37
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 320,
+Temps écoulé : 660ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1595|
+|   |   |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |   |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |GB+|   |GP |   |   |   |   |GP |
+|SL+|GP |GP |SN |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+GOTE turn n° 38
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1581,
+Temps écoulé : 3080ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2197|
+|   |   |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |   |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GB+|GP |GP |SN |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GS |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : PL
+
+
+SENTE turn n° 39
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2213,
+Temps écoulé : 4759ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1494|
+|   |   |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |   |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |SN+|GG |   |GN |GL |
+Sente captured tokens : SPP
+Gote captured tokens : PL
+
+
+GOTE turn n° 40
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 4585,
+Temps écoulé : 10341ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2200|
+|   |   |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |   |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GG |   |   |GN |GL |
+Sente captured tokens : SPP
+Gote captured tokens : PNL
+
+
+SENTE turn n° 41
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 6645,
+Temps écoulé : 16400ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1497|
+|   |   |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |   |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GB+|GP |GP |SS |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : PNL
+
+
+GOTE turn n° 42
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2169,
+Temps écoulé : 4930ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1897|
+|   |   |SS |SG |SK |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GB+|GP |GP |SS |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : PN
+
+
+SENTE turn n° 43
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2657,
+Temps écoulé : 5566ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1440|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |SK |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|   |   |SP |   |   |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GB+|GP |GP |SS |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : PN
+
+
+GOTE turn n° 44
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1351,
+Temps écoulé : 2809ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1800|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |SK |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|   |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GB+|GP |GP |SS |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 45
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2300,
+Temps écoulé : 4428ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1087|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|   |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |   |   |   |GP |
+|GB+|GP |GP |SS |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+GOTE turn n° 46
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 572,
+Temps écoulé : 1155ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1587|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|   |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|GB+|GP |GP |SS |GP |GK |GP |GP |   |
+|SP |   |   |   |   |   |GR |   |   |
+|SL+|   |GS |GG |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 47
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1353,
+Temps écoulé : 2438ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1176|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|   |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|GB+|GP |GP |SS |GP |GK |GP |GP |   |
+|SP |   |   |   |SP |   |GR |   |   |
+|SL+|   |GS |GG |GG |   |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : 
+
+
+GOTE turn n° 48
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 401,
+Temps écoulé : 777ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2053|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|   |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|GB+|GP |GP |SS |GP |GK |GP |GP |   |
+|SP |   |   |   |GG |   |GR |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 49
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1473,
+Temps écoulé : 2685ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1295|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|   |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |SS+|   |GR |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : GP
+Gote captured tokens : P
+
+
+GOTE turn n° 50
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1374,
+Temps écoulé : 2737ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2054|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|   |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |   |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : GP
+Gote captured tokens : PS
+
+
+SENTE turn n° 51
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3648,
+Temps écoulé : 7653ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1295|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|   |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |SG |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PS
+
+
+GOTE turn n° 52
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1061,
+Temps écoulé : 2134ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1435|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |SB |   |   |SG |   |
+|   |   |   |GP |   |GP |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+SENTE turn n° 53
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1433,
+Temps écoulé : 2662ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1002|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB |   |GP |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+GOTE turn n° 54
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 945,
+Temps écoulé : 1813ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1551|
+|   |   |SS |SG |   |SG |SS |SN |SL |
+|SR |   |   |GP |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB |   |GP |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 55
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 498,
+Temps écoulé : 961ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 621|
+|   |   |SS |   |   |SG |SS |SN |SL |
+|SR |   |SG |GP |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB |   |GP |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 56
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 163,
+Temps écoulé : 297ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -929|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB |   |GP |   |   |GP |
+|GB+|GP |GP |   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+SENTE turn n° 57
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 259,
+Temps écoulé : 512ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 426|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |   |   |GP |   |   |GP |
+|GB+|GP |SB+|   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |GG |   |   |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+GOTE turn n° 58
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 950,
+Temps écoulé : 1776ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1030|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |   |   |GP |   |   |GP |
+|GB+|GP |SB+|   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : PPP
+Gote captured tokens : 
+
+
+SENTE turn n° 59
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 363,
+Temps écoulé : 695ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 527|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |   |SP |GP |   |   |GP |
+|GB+|GP |SB+|   |GP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : 
+
+
+GOTE turn n° 60
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1203,
+Temps écoulé : 2203ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1128|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |   |GP |GP |   |   |GP |
+|GB+|GP |SB+|   |   |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : PP
+Gote captured tokens : P
+
+
+SENTE turn n° 61
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 440,
+Temps écoulé : 894ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 625|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |   |GP |GP |   |   |GP |
+|GB+|GP |SB+|   |SP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : P
+
+
+GOTE turn n° 62
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1419,
+Temps écoulé : 2721ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1121|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |   |GP |GP |   |   |GP |
+|GB+|GP |SB+|   |GR |GK |GP |GP |   |
+|SP |   |   |   |   |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+SENTE turn n° 63
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1288,
+Temps écoulé : 2563ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 428|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB+|GP |GP |   |   |GP |
+|GB+|GP |   |   |GR |GK |GP |GP |   |
+|SP |   |   |   |   |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+GOTE turn n° 64
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1256,
+Temps écoulé : 2467ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1423|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB+|GP |GP |   |   |GP |
+|GB+|GP |   |   |   |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+SENTE turn n° 65
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 501,
+Temps écoulé : 1006ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 623|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB+|GP |GP |   |   |GP |
+|GB+|GP |   |   |SP |GK |GP |GP |   |
+|SP |   |   |   |GR |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+GOTE turn n° 66
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2907,
+Temps écoulé : 5490ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1785|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB+|GP |GP |   |   |GP |
+|GB+|GP |   |   |SP |GK |GP |GP |   |
+|SP |   |GR |   |   |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+SENTE turn n° 67
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 583,
+Temps écoulé : 1129ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 888|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB+|GP |GP |   |   |GP |
+|GB+|GP |   |   |   |GK |GP |GP |   |
+|SP |   |GR |   |SP+|   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PP
+
+
+GOTE turn n° 68
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1143,
+Temps écoulé : 2231ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1286|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |SB+|GP |GP |   |   |GP |
+|GB+|GP |   |   |   |   |GP |GP |   |
+|SP |   |GR |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : 
+Gote captured tokens : PPP
+
+
+SENTE turn n° 69
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 564,
+Temps écoulé : 1127ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 485|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |   |   |SB+|GP |   |   |GP |
+|GB+|GP |   |   |   |   |GP |GP |   |
+|SP |   |GR |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PPP
+
+
+GOTE turn n° 70
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1198,
+Temps écoulé : 2483ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1383|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |GR |   |SB+|GP |   |   |GP |
+|GB+|GP |   |   |   |   |GP |GP |   |
+|SP |   |   |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |GN |GL |
+Sente captured tokens : P
+Gote captured tokens : PPP
+
+
+SENTE turn n° 71
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1276,
+Temps écoulé : 2648ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 881|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |GR |   |   |GP |   |   |GP |
+|GB+|GP |   |   |   |   |GP |GP |   |
+|SP |   |   |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |SB+|GL |
+Sente captured tokens : NP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 72
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1797,
+Temps écoulé : 4058ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1600|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |   |GR |   |   |GP |   |   |GP |
+|GB+|GP |   |   |   |   |GP |GP |   |
+|SP |   |   |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |SB+|GL |
+Sente captured tokens : NP
+Gote captured tokens : PP
+
+
+SENTE turn n° 73
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 911,
+Temps écoulé : 1912ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 986|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |SN |GR |   |   |GP |   |   |GP |
+|GB+|GP |   |   |   |   |GP |GP |   |
+|SP |   |   |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |SB+|GL |
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+GOTE turn n° 74
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 717,
+Temps écoulé : 1447ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1598|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|GR |   |   |GP |   |   |GP |
+|   |GP |   |   |   |   |GP |GP |   |
+|SP |   |   |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |SB+|GL |
+Sente captured tokens : P
+Gote captured tokens : PPN
+
+
+SENTE turn n° 75
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 654,
+Temps écoulé : 1437ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 880|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|GR |   |   |GP |   |   |GP |
+|   |GP |   |   |   |   |GP |GP |   |
+|SP |   |   |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |   |SB+|
+Sente captured tokens : LP
+Gote captured tokens : PPN
+
+
+GOTE turn n° 76
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 4795,
+Temps écoulé : 10735ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1594|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |   |   |GP |GP |   |
+|SP |   |   |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |   |SB+|
+Sente captured tokens : LP
+Gote captured tokens : PP
+
+
+SENTE turn n° 77
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1062,
+Temps écoulé : 2216ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 980|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |SL |   |GP |GP |   |
+|SP |   |   |   |GK |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |   |SB+|
+Sente captured tokens : P
+Gote captured tokens : PP
+
+
+GOTE turn n° 78
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2798,
+Temps écoulé : 5251ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1272|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |GP |GP |   |
+|SP |   |   |   |   |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |   |SB+|
+Sente captured tokens : P
+Gote captured tokens : PPL
+
+
+SENTE turn n° 79
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1359,
+Temps écoulé : 2909ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 575|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |GP |GP |   |
+|SP |   |   |   |SP |   |   |   |   |
+|SL+|   |GS |   |   |GG |   |   |SB+|
+Sente captured tokens : 
+Gote captured tokens : PPL
+
+
+GOTE turn n° 80
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2777,
+Temps écoulé : 5542ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1272|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |GP |GP |   |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |SB+|
+Sente captured tokens : 
+Gote captured tokens : PPPL
+
+
+SENTE turn n° 81
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1547,
+Temps écoulé : 3354ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 497|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |   |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : P
+Gote captured tokens : PPPL
+
+
+GOTE turn n° 82
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1641,
+Temps écoulé : 3594ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1197|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |SP |   |GN |   |SP |   |SP |
+|   |   |GL |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |   |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : P
+Gote captured tokens : PPP
+
+
+SENTE turn n° 83
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 285,
+Temps écoulé : 639ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 583|
+|   |   |SS |GP+|   |SG |SS |SN |SL |
+|SR |   |SG |   |GP |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |   |   |GN |   |SP |   |SP |
+|   |   |SP |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |   |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 84
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 566,
+Temps écoulé : 1325ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -1585|
+|   |   |SS |GP+|GP+|SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |   |   |GN |   |SP |   |SP |
+|   |   |SP |   |   |   |   |SG |   |
+|   |GB+|GR |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |   |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 85
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 390,
+Temps écoulé : 930ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1028|
+|   |   |SS |GP+|GP+|SG |SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |   |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |   |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LRP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 86
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1139,
+Temps écoulé : 2816ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2136|
+|   |   |SS |GP+|   |GP+|SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |   |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |   |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LRP
+Gote captured tokens : GPPP
+
+
+SENTE turn n° 87
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2663,
+Temps écoulé : 6885ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1376|
+|   |   |SS |GP+|   |GP+|SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |   |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LP
+Gote captured tokens : GPPP
+
+
+GOTE turn n° 88
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 933,
+Temps écoulé : 2296ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2082|
+|   |   |SS |GP+|   |GP+|SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |SK |SP |GL |SP |   |SP |   |
+|GS |   |GG |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 89
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 533,
+Temps écoulé : 1253ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1415|
+|   |   |SS |GP+|   |GP+|SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|GS |   |SK |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPG
+Gote captured tokens : PPP
+
+
+GOTE turn n° 90
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 524,
+Temps écoulé : 1342ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2176|
+|   |   |GP+|   |   |GP+|SS |SN |SL |
+|SR |   |SG |   |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|GS |   |SK |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPG
+Gote captured tokens : SPPP
+
+
+SENTE turn n° 91
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1071,
+Temps écoulé : 2854ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1471|
+|   |   |SG |   |   |GP+|SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|GS |   |SK |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPGP
+Gote captured tokens : SPPP
+
+
+GOTE turn n° 92
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3053,
+Temps écoulé : 8012ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2228|
+|   |   |SG |   |   |GP+|SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|GS |GS |SK |   |GN |   |SP |   |SP |
+|   |   |   |   |   |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPGP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 93
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1441,
+Temps écoulé : 3588ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1722|
+|   |   |SG |   |   |GP+|SS |SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|GS |GS |SK |   |GN |   |SP |   |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 94
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 834,
+Temps écoulé : 2014ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2428|
+|   |   |SG |   |   |   |GP+|SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |SP |   |SP |GL |SP |   |SP |   |
+|GS |GS |SK |   |GN |   |SP |   |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPP
+Gote captured tokens : SPPP
+
+
+SENTE turn n° 95
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 819,
+Temps écoulé : 2075ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 1722|
+|   |   |SG |   |   |   |GP+|SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |   |   |SP |GL |SP |   |SP |   |
+|GS |SP |SK |   |GN |   |SP |   |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPSP
+Gote captured tokens : SPPP
+
+
+GOTE turn n° 96
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1988,
+Temps écoulé : 5250ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2428|
+|   |   |SG |   |   |   |GP+|SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |   |   |SP |GL |SP |   |SP |   |
+|GS |SP |SK |   |GN |   |SP |GS |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPSP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 97
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1733,
+Temps écoulé : 4371ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 2015|
+|   |   |SG |   |   |   |GP+|SN |SL |
+|SR |   |   |   |   |   |   |   |   |
+|SN |   |   |SP |GL |SP |   |   |   |
+|GS |SP |SK |   |GN |   |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPSSP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 98
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1350,
+Temps écoulé : 3531ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -2727|
+|   |   |SG |   |   |   |GP+|SN |SL |
+|SR |   |   |   |GL+|   |   |   |   |
+|SN |   |   |SP |   |SP |   |   |   |
+|GS |SP |SK |   |GN |   |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LPSSP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 99
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1055,
+Temps écoulé : 2786ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 2324|
+|   |   |SG |   |   |   |GP+|SN |SL |
+|   |   |   |   |SR |   |   |   |   |
+|SN |   |   |SP |   |SP |   |   |   |
+|GS |SP |SK |   |GN |   |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPSSP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 100
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1305,
+Temps écoulé : 3644ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3030|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |SR |   |   |   |   |
+|SN |   |   |SP |   |SP |   |   |   |
+|GS |SP |SK |   |GN |   |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |   |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPSSP
+Gote captured tokens : NPPP
+
+
+SENTE turn n° 101
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 4802,
+Temps écoulé : 14040ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 2393|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |SR |   |   |   |   |
+|SN |   |   |SP |   |SP |   |   |   |
+|GS |SP |SK |   |GN |   |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPSP
+Gote captured tokens : NPPP
+
+
+GOTE turn n° 102
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1777,
+Temps écoulé : 4864ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3100|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |SR |   |   |   |   |
+|SN |   |   |SP |   |SP |   |   |   |
+|GS |SP |SK |   |GN |GN |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPSP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 103
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1060,
+Temps écoulé : 2836ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 2593|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |SR |   |   |   |   |
+|SN |   |   |SP |   |   |   |   |   |
+|GS |SP |SK |   |GN |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPNSP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 104
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1336,
+Temps écoulé : 3887ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3299|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |SR |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |SK |   |GN |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |   |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPNSP
+Gote captured tokens : NPPP
+
+
+SENTE turn n° 105
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3486,
+Temps écoulé : 10484ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 2659|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |SR |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |SK |   |GN |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |SS |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPNP
+Gote captured tokens : NPPP
+
+
+GOTE turn n° 106
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1175,
+Temps écoulé : 3459ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3367|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |SR |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|GN |SP |SK |   |GN |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |SS |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 107
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1361,
+Temps écoulé : 3742ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 2860|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|GN |SP |SK |   |SR |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|   |GB+|SP |   |GN |GP |SS |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLNPNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 108
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1530,
+Temps écoulé : 4500ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3653|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|GN |SP |SK |   |SR |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|GB+|   |SP |   |GN |GP |SS |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLNPNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 109
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 4828,
+Temps écoulé : 13453ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3140|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|GN |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|GB+|   |SP |   |GN |GP |SS |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLNPNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 110
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1039,
+Temps écoulé : 2999ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3894|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |GN+|   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|GB+|   |SP |   |GN |GP |SS |   |GP |
+|   |GP |   |   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLNPNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 111
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1313,
+Temps écoulé : 3844ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3291|
+|   |   |SG |   |   |   |   |GP+|SL |
+|   |GN+|   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|GB+|   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLNPNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 112
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1715,
+Temps écoulé : 5055ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3892|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|GB+|   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLNPNP
+Gote captured tokens : GPPP
+
+
+SENTE turn n° 113
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2034,
+Temps écoulé : 6414ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3136|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|GB+|   |   |   |GN |GP |SS |   |GP |
+|SN |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLNPP
+Gote captured tokens : GPPP
+
+
+GOTE turn n° 114
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3024,
+Temps écoulé : 8572ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3787|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|GB+|   |   |   |GN |GP |SS |   |GP |
+|SN |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLNPP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 115
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 8506,
+Temps écoulé : 22303ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3187|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|GB+|   |   |   |GN |GP |SS |   |GP |
+|SN |GP |SP+|SN |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 116
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3069,
+Temps écoulé : 7649ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3794|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|   |   |   |   |GN |GP |SS |   |GP |
+|GB+|GP |SP+|SN |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GS |   |   |   |   |   |   |
+Sente captured tokens : LLPP
+Gote captured tokens : NPPP
+
+
+SENTE turn n° 117
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2738,
+Temps écoulé : 7464ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3090|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|   |   |   |   |GN |GP |SS |   |GP |
+|GB+|GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |SN+|   |   |   |   |   |   |
+Sente captured tokens : LLSPP
+Gote captured tokens : NPPP
+
+
+GOTE turn n° 118
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 5702,
+Temps écoulé : 16196ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3794|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|   |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLSPP
+Gote captured tokens : NPPPN
+
+
+SENTE turn n° 119
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 5907,
+Temps écoulé : 18129ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3156|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPP
+Gote captured tokens : NPPPN
+
+
+GOTE turn n° 120
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2678,
+Temps écoulé : 7577ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3658|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |SK |SP |   |GN |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPP
+Gote captured tokens : PPPN
+
+
+SENTE turn n° 121
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 13004,
+Temps écoulé : 33822ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3005|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |SK |   |   |   |   |   |
+|GS+|   |   |SP |   |GN |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPP
+Gote captured tokens : PPPN
+
+
+GOTE turn n° 122
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 7945,
+Temps écoulé : 20870ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -3756|
+|   |   |GN+|   |   |   |   |GP+|SL |
+|   |   |   |SK |   |   |   |   |   |
+|GS+|   |   |SP |GN |GN |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 123
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1130,
+Temps écoulé : 2964ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3407|
+|   |   |SK |   |   |   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |GN |GN |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 124
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2865,
+Temps écoulé : 7786ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -4056|
+|   |   |SK |   |GN+|   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |GN |   |   |   |   |
+|   |SP |   |   |SR |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 125
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2824,
+Temps écoulé : 7601ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3561|
+|   |   |SK |   |GN+|   |   |GP+|SL |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |SR |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 126
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3321,
+Temps écoulé : 9727ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -4265|
+|   |   |SK |   |GN+|   |   |   |GP+|
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |SR |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPNP
+Gote captured tokens : LPPP
+
+
+SENTE turn n° 127
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3439,
+Temps écoulé : 10731ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3563|
+|   |   |SK |   |SR |   |   |   |GP+|
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPNNP
+Gote captured tokens : LPPP
+
+
+GOTE turn n° 128
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3357,
+Temps écoulé : 11119ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -4264|
+|   |   |SK |   |SR |   |   |   |GP+|
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |GL |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPNNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 129
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2651,
+Temps écoulé : 8405ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 3557|
+|   |   |   |SK |SR |   |   |   |GP+|
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |GL |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPNNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 130
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3662,
+Temps écoulé : 11705ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -4259|
+|   |   |   |SK |SR |   |   |   |GP+|
+|   |   |GL+|   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPNNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 131
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1901,
+Temps écoulé : 6023ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 4017|
+|   |   |   |   |SR |   |   |   |GP+|
+|   |   |SK |   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPLNNP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 132
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 4552,
+Temps écoulé : 16007ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -4720|
+|   |   |   |   |SR |   |   |   |GP+|
+|   |   |SK |GP |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPLNNP
+Gote captured tokens : PP
+
+
+SENTE turn n° 133
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3583,
+Temps écoulé : 11346ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 4066|
+|   |   |   |   |SR |   |   |   |GP+|
+|   |   |   |SK |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPLNNP
+Gote captured tokens : PP
+
+
+GOTE turn n° 134
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3977,
+Temps écoulé : 13509ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -4770|
+|   |   |   |   |SR |   |   |   |GP+|
+|   |   |GP |SK |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPLNNP
+Gote captured tokens : P
+
+
+SENTE turn n° 135
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3465,
+Temps écoulé : 10886ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 4116|
+|   |   |   |   |   |   |   |   |SR |
+|   |   |GP |SK |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPPLNNP
+Gote captured tokens : P
+
+
+GOTE turn n° 136
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 2718,
+Temps écoulé : 9287ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -4972|
+|   |   |GP+|   |   |   |   |   |SR |
+|   |   |   |SK |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPPLNNP
+Gote captured tokens : P
+
+
+SENTE turn n° 137
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1039,
+Temps écoulé : 3624ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 4815|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |SP |   |   |   |SP |SP |SP |SP |
+|   |   |GG |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPPPLNNP
+Gote captured tokens : P
+
+
+GOTE turn n° 138
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 3284,
+Temps écoulé : 11613ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -5416|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |GG |   |   |   |SP |SP |SP |SP |
+|   |   |   |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPPPLNNP
+Gote captured tokens : PP
+
+
+SENTE turn n° 139
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 10133,
+Temps écoulé : 38194ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 5097|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |GG |   |   |   |SP |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |GN |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPPPLNP
+Gote captured tokens : PP
+
+
+GOTE turn n° 140
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 5082,
+Temps écoulé : 17948ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -5714|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |   |   |   |   |   |
+|   |GG |   |   |   |GN |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |   |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPPPLNP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 141
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 26102,
+Temps écoulé : 100795ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 5212|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |SN |   |   |   |   |
+|   |GG |   |   |   |GN |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |   |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPPPLP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 142
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 17706,
+Temps écoulé : 64398ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -5812|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |GN+|   |   |   |   |
+|GS+|   |   |SP |SN |   |   |   |   |
+|   |GG |   |   |   |   |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |   |GP |SS |   |GP |
+|   |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLNPPPPLP
+Gote captured tokens : PPP
+
+
+SENTE turn n° 143
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 30880,
+Temps écoulé : 111978ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 5212|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |GN+|   |   |   |   |
+|GS+|   |   |SP |SN |   |   |   |   |
+|   |GG |   |   |   |   |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |   |GP |SS |   |GP |
+|SN |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPPPPLP
+Gote captured tokens : PPP
+
+
+GOTE turn n° 144
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 4878,
+Temps écoulé : 17262ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -5910|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |GN+|   |   |   |   |
+|   |GG |   |   |   |   |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |   |GP |SS |   |GP |
+|SN |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPPPPLP
+Gote captured tokens : PPNP
+
+
+SENTE turn n° 145
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 18297,
+Temps écoulé : 67615ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 5310|
+|   |   |SK |   |   |   |   |   |SR |
+|   |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |GN+|   |   |   |   |
+|   |GG |   |   |   |   |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |SL |GP |SS |   |GP |
+|SN |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPPPPP
+Gote captured tokens : PPNP
+
+
+GOTE turn n° 146
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 8842,
+Temps écoulé : 30667ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : -9999999|
+|   |   |SK |   |   |   |   |   |SR |
+|GP |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |GN+|   |   |   |   |
+|   |GG |   |   |   |   |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |SL |GP |SS |   |GP |
+|SN |GP |SP+|   |GK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPPPPP
+Gote captured tokens : PNP
+
+
+SENTE turn n° 147
+Début recherche AB
+Fin recherche AB
+Nombre de noeuds visités : 1448,
+Temps écoulé : 4957ms,
+Score du noeud séléctionné (Pour l'IA actuelle, plus est mieux) : 9999999|
+|   |   |SK |   |   |   |   |   |SR |
+|GP |   |   |   |   |   |   |   |   |
+|GS+|   |   |SP |GN+|   |   |   |   |
+|   |GG |   |   |   |   |SP |SP |SP |
+|   |   |SN |   |SG |   |   |SG |   |
+|SS |   |   |   |SL |GP |SS |   |GP |
+|SN |GP |SP+|   |SK |   |SB+|GP |SR |
+|SP |   |   |   |GG |   |SS |   |   |
+|SL+|   |GB+|   |   |   |   |   |   |
+Sente captured tokens : LLPPPPP
+Gote captured tokens : PNP
+
+
+SENTE WON!
+
+
+Temps total écoulé : 1157002ms
+
